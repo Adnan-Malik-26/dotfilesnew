@@ -174,3 +174,5 @@ fstr(){
 ###eval
 eval "$(starship init bash)"
 . "$HOME/.cargo/env"
+
+export PATH=$PATH:/home/adnanmalik/.spicetify
