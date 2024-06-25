@@ -118,7 +118,7 @@ export PATH=$PATH:$HOME/.local/share/bob/nvim-bin
 export PATH=$PATH:$HOME/.local/share/bob/nightly/nvim-linux64/bin
 export PATH=$PATH:/usr/local/bin
 export PATH=$PATH:$HOME/scripts/
-
+export PATH=$PATH:/home/linuxbrew/.linuxbrew/bin
 ###FUNCTIONS
 
 #Extracting Files
@@ -174,5 +174,5 @@ fstr(){
 ###eval
 eval "$(starship init bash)"
 . "$HOME/.cargo/env"
-
+eval "$(zoxide init bash)"
 export PATH=$PATH:/home/adnanmalik/.spicetify
