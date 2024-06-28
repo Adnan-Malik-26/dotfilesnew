@@ -41,7 +41,7 @@ alias 'b'='nvim ~/.bashrc'
 #Alternatives
 alias df='duf'
 alias 'cat'='bat'
-alias 'ping'='gping'
+alias 'ping'='gping -c blue'
 
 #Opening Configs
 alias 'i3c'='nvim ~/.config/i3/config '
@@ -78,8 +78,6 @@ alias 'giveip'="ip -4 addr | grep -oP '(?<=inet\s)\d+(\.\d+){3}'"
 #Meat of the file
 alias meat='grep "^\s*[^#;]"'
 
-#start Tor Browser
-
 #Ping short
 alias 'pn'='ping -c 5 8.8.8.8'
 
@@ -95,8 +93,10 @@ alias stat='git status'
 alias tag='git tag'
 alias newtag='git tag -a'
 
-#Update and Upgrade aliases 
+#Tmux Aliases
+alias 'tn'='tmux new -s (pwd | sed 's/.*\///g')'
 
+#Update and Upgrade aliases 
 alias 'upd'='sudo apt update'
 alias 'upg'='sudo apt upgrade'
 alias 'up'='sudo apt update && sudo apt upgrade'
@@ -153,7 +153,7 @@ function cm {
         let counter--
         out="${out}$dirup"
     done
-    cd $out
+    z $out
 }
 
 #mkcd
@@ -174,5 +174,5 @@ fstr(){
 ###eval
 eval "$(starship init bash)"
 . "$HOME/.cargo/env"
-eval "$(zoxide init bash)"
+eval "$(zoxide init --cmd cd bash)"
 export PATH=$PATH:/home/adnanmalik/.spicetify
