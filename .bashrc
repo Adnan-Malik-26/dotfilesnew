@@ -103,9 +103,6 @@ alias 'upg'='sudo apt upgrade'
 alias 'up'='sudo apt update && sudo apt upgrade'
 alias 'rem'='sudo apt autoremove'
 
-#Shopt
-shopt -s autocd
-shopt -s cdspell
 
 #AUTOSTART
 cl
