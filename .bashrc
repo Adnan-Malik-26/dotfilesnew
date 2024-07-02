@@ -28,7 +28,8 @@ alias 'vi'='nvim'
 alias 'vim'='nvim'
 alias 'nv'='nvim'
 alias 'v'='nvim'
-
+# y to yazi
+alias 'y'='yazi'
 #Quitting Terminal
 alias ':q'="exit"
 alias ':qw'='exit'

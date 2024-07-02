@@ -11,3 +11,6 @@ image_filter = "nearest"
 edit = [
   { run = 'nvim "$@"', block = true }
 ]
+open = [
+	{ run = 'zathura "$@"', desc = "Open" },
+]
