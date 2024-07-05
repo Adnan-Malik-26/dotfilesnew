@@ -69,7 +69,7 @@ alias free='free -m'
 alias 'cp'='cp -v'
 alias 'rm'='rm -v'
 alias 'mv'='mv -v'
-alias 'cl'='cd ~ && clear&&neofetch&&ls'
+alias 'cl'='clear'
 alias 'cv'='clear&&neofetch&&ls'
 alias 'cls'='clear'
 
@@ -105,7 +105,7 @@ alias 'rem'='sudo apt autoremove'
 
 
 #AUTOSTART
-cl
+#cl
 
 ###PATH
 export PATH=$PATH:$HOME/.local/bin/

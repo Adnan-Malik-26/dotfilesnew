@@ -1,3 +1,8 @@
+command_timeout = 100000000
+add_newline = true
+
+
+
 format = """
 $username\
 $hostname\
@@ -44,3 +49,4 @@ style = "yellow"
 [python]
 format = "[$virtualenv]($style) "
 style = "bright-black"
+
