@@ -93,7 +93,7 @@ alias psuh='git push'
 alias stat='git status'
 alias tag='git tag'
 alias newtag='git tag -a'
-
+alias lg='lazygit'
 #Tmux Aliases
 alias 'tn'='tmux new -s (pwd | sed 's/.*\///g')'
 
@@ -105,7 +105,7 @@ alias 'rem'='sudo apt autoremove'
 
 
 #AUTOSTART
-#cl
+cl
 
 ###PATH
 export PATH=$PATH:$HOME/.local/bin/

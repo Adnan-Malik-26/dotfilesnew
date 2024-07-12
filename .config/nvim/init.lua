@@ -7,3 +7,10 @@ function Transparent(color)
   vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
 end
 Transparent()
+
+vim.cmd([[
+augroup html_boilerplate
+    autocmd!
+    autocmd BufNewFile *.html 0r ~/.config/nvim/templates/html_boilerplate.html
+augroup END
+]])
