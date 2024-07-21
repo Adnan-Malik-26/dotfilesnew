@@ -1,0 +1,50 @@
+- 💬 "Habits are, simply, reliable solutions to recurring problems in our environment." [[James Hrea]] #quote
+- 💬 "The things that are most important don’t always scream the loudest." [[Bob Hawke]] #quote
+- 💬 "Multitasking is merely the opportunity to screw up more than one thing at a time." [[Steve Uzzell]] #quote
+- 💬 "The truth is, balance is bunk. It is an unattainable pipe dream... the quest for balance between work and life, as we’ve come to think of it, isn’t just a losing proposition; it’s a harmful, destructive one." [[Keith Hammonds]] #quote
+- 💬 "People do not decide their futures, they decide their habits and their habits decide their futures." [[F.M. Alexander]] #quote
+- 💬 "Productivity isn’t about being a workhorse, keeping busy or burning the midnight oil... it’s more about priorities, planning, and fiercely protecting your time." [[Margarita Tartakovsky]] #quote
+- 💬 "Change or die." [[Thomas Edgley]] #quote
+- 💬 "You cannot be the same, think the same, and act the same if you hope to be successful in a world that does not remain the same." [[John Maxwell]] #quote
+- 💬 "That’s your responsibility as a person, as a human being - to constantly be updating your positions on as many things as possible. And if you don’t contradict yourself on a regular basis, then you’re not thinking." [[Malcolm Gladwell]] #quote
+- 💬 "Sad will be the day for every man when he becomes absolutely contented with the life he is living, with the thoughts that he is thinking, with the deeds that he is doing, when there is not forever beating at the doors of his soul some great desire to do something larger, which he knows that he was meant and made to do." [[Phillips Brooks]] #quote
+- 💬 "Yesterday’s home run doesn’t win today’s game." [[Babe Ruth]] #quote
+- 💬 "The future has a way of arriving unannounced." [[George Will]] #quote
+- 💬 "Life expands or shrinks in proportion to our courage." [[John Maxwell]] #quote
+- 💬 "You can get everything in life you want if you will just help enough other people get what they want." [[Zig Ziglar]] #quote
+- 💬 "Action reduces fear and increases courage." [[John Maxwell]] #quote
+- 💬 "There is no success without sacrifice. If you succeed without sacrifice it is because someone has suffered before you. If you sacrifice without success it is because someone will succeed after." [[Adoniram Judson]] #quote
+- 💬 "A time of turbulence is a dangerous time, but it’s greatest danger is the temptation to deny reality." [[Peter Drucker]] #quote
+- 💬 "Your success in your career will be in direct proportion to what you do after you’ve done what you are expected to do." [[Brian Tracy]] #quote
+- 💬 "There is no victory at bargain basement prices." [[Dwight Eisenhower]] #quote
+- 💬 "Most people want empowerment when what they need first are responsibility and accountability." [[John Maxwell]] #quote
+- 💬 "People remember how they felt long after they have forgotten what you said." [[John Maxwell]] #quote
+- 💬 "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity." [[George Patton]] #quote
+- 💬 "Capital isn’t so important in business. Experience isn’t so important. You can get both of these things. What is important is ideas. If you have ideas you have the moon asset you need, and there isn’t any limit to what you can do with your business and your life. They are man’s greatest asset – ideas." [[Harvey Firestone]] #quote
+- 💬 "Ask the God who made you to keep remaking you." [[Norman Vincent Peale]] #quote
+- 💬 "When opportunity comes, it’s too late to prepare." [[John Wooden]] #quote
+- 💬 "Our chief want in life is somebody who shall make us do what we can." [[Ralph Waldo Emerson]] #quote
+- 💬 "If you don’t get what you want it is either a sign that you did not seriously want it, or that you tried to bargain over the price." [[Rudyard Kipling]] #quote
+- 💬 "When we refrain from giving, with a scarcity mentality, the little we have will become less. When we give generously, with an abundance mentality, what we give away will multiply." [[Henri Nouwen]] #quote
+- 💬 "Organizations are not limited by their opportunity, they are limited by their leader." [[Dave Ramsey]] #quote
+- 💬 "Everyone has a change-the-world speech in them." [[John F. Kennedy]] #quote
+- 💬 "Men are anxious to improve their circumstances, but are unwilling to improve themselves; they therefore remain bound." [[James Allen]] #quote
+- 💬 "If you could kick the person in the pants responsible for most of your trouble, you wouldn’t sit for a month." [[Theodore Roosevelt]] #quote
+- 💬 "Opportunity is missed by most people because it’s dressed in overalls and looks like work." [[Thomas Edison]] #quote
+- 💬 "Those who will not risk cannot win." [[John Paul Jones]] #quote
+- 💬 "Make mistakes, just don't make them permanent." [[James Clear]] #quote
+- 💬 "What you do every day matters more than what you do once in awhile." [[Gretchen Rubin]] #quote
+- 💬 "Almost everything will work again if you unplug it for a few minutes, including you." [[Anne Lamott]] #quote
+- 💬 "My biggest leadership problem is leading me." [[John Maxwell]] #quote
+- 💬 "It’s easier to teach what I know than live what I know." [[John Maxwell]] #quote
+- 💬 "A ship in harbor is safe, but that’s not what ships are built for." [[John Shedd]] #quote
+- 💬 "The best things you can do can never be done in a year." [[Brad Smith]] #quote
+- 💬 "Success consists of going from failure to failure with no loss of enthusiasm." [[Winston Churchill]] #quote
+- 💬 "A wealth of information creates poverty of attention." [[Herbert Simon]] #quote
+- 💬 "If I know how you spend your time, then I know what might become of you." [[Johann Wolfgang von Goethe]] #quote
+- 💬 "People are frugal in guarding their personal property; but as soon as it comes to squandering time, they are most wasteful of the one thing in which it is right to be stingy." [[Seneca]] #quote
+- 💬 "It’s hard to make that time. It’s hard (and expensive) to get away. We have responsibilities. But they will be better for our temporary disappearance. We will carry back with us the stillness from our solitude in the form of patience, understanding, gratitude, and insight." [[Ryan Holiday]] #quote
+- 💬 "It’s good to be smart, but it's better to be wise." [[Michael Diamond]] #quote
+- 💬 "For the first 25 years of my life, I wanted freedom. For the next 25 years, I wanted order. For the next 25 years, I realized that order is freedom." [[Winston Churchill]] #quote
+- 💬 "A scared world needs a strong church." [[A.W. Tozer]] #quote
+- 💬 "You can accomplish anything in life, provides that you do not mind who gets the credit." [[Harry S. Truman]] #quote

@@ -1,0 +1,1207 @@
+- [ ] [[Genesis 1]]  🔁 every year 📅 2024-01-01 #todo #biblereading
+- [ ] [[Genesis 2]] 🔁 every year 📅 2024-01-01 #todo #biblereading 
+- [ ] [[Genesis 3]] 🔁 every year 📅 2024-01-01 #todo #biblereading 
+- [ ] [[Genesis 4]] 🔁 every year 📅 2024-01-02 #todo #biblereading 
+- [ ] [[Genesis 5]] 🔁 every year 📅 2024-01-02 #todo #biblereading 
+- [ ] [[Genesis 6]] 🔁 every year 📅 2024-01-02 #todo #biblereading 
+- [ ] [[Genesis 7]] 🔁 every year 📅 2024-01-02 #todo #biblereading 
+- [ ] [[Genesis 8]] 🔁 every year 📅 2024-01-03 #todo #biblereading 
+- [ ] [[Genesis 9]] 🔁 every year 📅 2024-01-03 #todo #biblereading
+- [ ] [[Genesis 10]] 🔁 every year 📅 2024-01-03 #todo #biblereading
+- [ ] [[Genesis 11]] 🔁 every year 📅 2024-01-03 #todo #biblereading
+- [ ] [[Job 1]] 🔁 every year 📅 2024-01-04 #todo #biblereading
+- [ ] [[Job 2]] 🔁 every year 📅 2024-01-04 #todo #biblereading
+- [ ] [[Job 3]] 🔁 every year 📅 2024-01-04 #todo #biblereading
+- [ ] [[Job 4]] 🔁 every year 📅 2024-01-04 #todo #biblereading
+- [ ] [[Job 5]] 🔁 every year 📅 2024-01-04 #todo #biblereading
+- [ ] [[Job 6]] 🔁 every year 📅 2024-01-05 #todo #biblereading
+- [ ] [[Job 7]] 🔁 every year 📅 2024-01-05 #todo #biblereading
+- [ ] [[Job 8]] 🔁 every year 📅 2024-01-05 #todo #biblereading
+- [ ] [[Job 9]] 🔁 every year 📅 2024-01-05 #todo #biblereading
+- [ ] [[Job 10]] 🔁 every year 📅 2024-01-06 #todo #biblereading
+- [ ] [[Job 11]] 🔁 every year 📅 2024-01-06 #todo #biblereading
+- [ ] [[Job 12]] 🔁 every year 📅 2024-01-06 #todo #biblereading
+- [ ] [[Job 13]] 🔁 every year 📅 2024-01-06 #todo #biblereading
+- [ ] [[Job 14]] 🔁 every year 📅 2024-01-07 #todo #biblereading
+- [ ] [[Job 15]] 🔁 every year 📅 2024-01-07 #todo #biblereading
+- [ ] [[Job 16]] 🔁 every year 📅 2024-01-07 #todo #biblereading
+- [ ] [[Job 17]] 🔁 every year 📅 2024-01-08 #todo #biblereading
+- [ ] [[Job 18]] 🔁 every year 📅 2024-01-08 #todo #biblereading
+- [ ] [[Job 19]] 🔁 every year 📅 2024-01-08 #todo #biblereading
+- [ ] [[Job 20]] 🔁 every year 📅 2024-01-08 #todo #biblereading
+- [ ] [[Job 21]] 🔁 every year 📅 2024-01-09 #todo #biblereading
+- [ ] [[Job 22]] 🔁 every year 📅 2024-01-09 #todo #biblereading
+- [ ] [[Job 23]] 🔁 every year 📅 2024-01-09 #todo #biblereading
+- [ ] [[Job 24]] 🔁 every year 📅 2024-01-10 #todo #biblereading
+- [ ] [[Job 25]] 🔁 every year 📅 2024-01-10 #todo #biblereading
+- [ ] [[Job 26]] 🔁 every year 📅 2024-01-10 #todo #biblereading
+- [ ] [[Job 27]] 🔁 every year 📅 2024-01-10 #todo #biblereading
+- [ ] [[Job 28]] 🔁 every year 📅 2024-01-10 #todo #biblereading
+- [ ] [[Job 29]] 🔁 every year 📅 2024-01-11 #todo #biblereading
+- [ ] [[Job 30]] 🔁 every year 📅 2024-01-11 #todo #biblereading
+- [ ] [[Job 31]] 🔁 every year 📅 2024-01-11 #todo #biblereading
+- [ ] [[Job 32]] 🔁 every year 📅 2024-01-12 #todo #biblereading
+- [ ] [[Job 33]] 🔁 every year 📅 2024-01-12 #todo #biblereading
+- [ ] [[Job 34]] 🔁 every year 📅 2024-01-12 #todo #biblereading
+- [ ] [[Job 35]] 🔁 every year 📅 2024-01-13 #todo #biblereading
+- [ ] [[Job 36]] 🔁 every year 📅 2024-01-13 #todo #biblereading
+- [ ] [[Job 37]] 🔁 every year 📅 2024-01-13 #todo #biblereading
+- [ ] [[Job 38]] 🔁 every year 📅 2024-01-14 #todo #biblereading
+- [ ] [[Job 39]] 🔁 every year 📅 2024-01-14 #todo #biblereading
+- [ ] [[Job 40]] 🔁 every year 📅 2024-01-15 #todo #biblereading
+- [ ] [[Job 41]] 🔁 every year 📅 2024-01-15 #todo #biblereading
+- [ ] [[Job 42]] 🔁 every year 📅 2024-01-15 #todo #biblereading
+- [ ] [[Genesis 12]] 🔁 every year 📅 2024-01-16 #todo #biblereading
+- [ ] [[Genesis 13]] 🔁 every year 📅 2024-01-16 #todo #biblereading
+- [ ] [[Genesis 14]] 🔁 every year 📅 2024-01-16 #todo #biblereading
+- [ ] [[Genesis 15]] 🔁 every year 📅 2024-01-16 #todo #biblereading
+- [ ] [[Genesis 16]] 🔁 every year 📅 2024-01-17 #todo #biblereading
+- [ ] [[Genesis 17]] 🔁 every year 📅 2024-01-17 #todo #biblereading
+- [ ] [[Genesis 18]] 🔁 every year 📅 2024-01-17 #todo #biblereading
+- [ ] [[Genesis 19]] 🔁 every year 📅 2024-01-18 #todo #biblereading
+- [ ] [[Genesis 20]] 🔁 every year 📅 2024-01-18 #todo #biblereading
+- [ ] [[Genesis 21]] 🔁 every year 📅 2024-01-18 #todo #biblereading
+- [ ] [[Genesis 22]] 🔁 every year 📅 2024-01-19 #todo #biblereading
+- [ ] [[Genesis 23]] 🔁 every year 📅 2024-01-19 #todo #biblereading
+- [ ] [[Genesis 24]] 🔁 every year 📅 2024-01-19 #todo #biblereading
+- [ ] [[Genesis 25]] 🔁 every year 📅 2024-01-20 #todo #biblereading
+- [ ] [[Genesis 26]] 🔁 every year 📅 2024-01-20 #todo #biblereading
+- [ ] [[Genesis 27]] 🔁 every year 📅 2024-01-21 #todo #biblereading
+- [ ] [[Genesis 28]] 🔁 every year 📅 2024-01-21 #todo #biblereading
+- [ ] [[Genesis 29]] 🔁 every year 📅 2024-01-21 #todo #biblereading
+- [ ] [[Genesis 30]] 🔁 every year 📅 2024-01-22 #todo #biblereading
+- [ ] [[Genesis 31]] 🔁 every year 📅 2024-01-22 #todo #biblereading
+- [ ] [[Genesis 32]] 🔁 every year 📅 2024-01-23 #todo #biblereading
+- [ ] [[Genesis 33]] 🔁 every year 📅 2024-01-23 #todo #biblereading
+- [ ] [[Genesis 34]] 🔁 every year 📅 2024-01-23 #todo #biblereading
+- [ ] [[Genesis 35]] 🔁 every year 📅 2024-01-24 #todo #biblereading
+- [ ] [[Genesis 36]] 🔁 every year 📅 2024-01-24 #todo #biblereading
+- [ ] [[Genesis 37]] 🔁 every year 📅 2024-01-24 #todo #biblereading
+- [ ] [[Genesis 38]] 🔁 every year 📅 2024-01-25 #todo #biblereading
+- [ ] [[Genesis 39]] 🔁 every year 📅 2024-01-25 #todo #biblereading
+- [ ] [[Genesis 40]] 🔁 every year 📅 2024-01-25 #todo #biblereading
+- [ ] [[Genesis 41]] 🔁 every year 📅 2024-01-26 #todo #biblereading
+- [ ] [[Genesis 42]] 🔁 every year 📅 2024-01-26 #todo #biblereading
+- [ ] [[Genesis 43]] 🔁 every year 📅 2024-01-27 #todo #biblereading
+- [ ] [[Genesis 44]] 🔁 every year 📅 2024-01-27 #todo #biblereading
+- [ ] [[Genesis 45]] 🔁 every year 📅 2024-01-27 #todo #biblereading
+- [ ] [[Genesis 46]] 🔁 every year 📅 2024-01-28 #todo #biblereading
+- [ ] [[Genesis 45]] 🔁 every year 📅 2024-01-27 #todo #biblereading
+- [ ] [[Genesis 47]] 🔁 every year 📅 2024-01-28 #todo #biblereading
+- [ ] [[Genesis 48]] 🔁 every year 📅 2024-01-29 #todo #biblereading
+- [ ] [[Genesis 49]] 🔁 every year 📅 2024-01-29 #todo #biblereading
+- [ ] [[Genesis 50]] 🔁 every year 📅 2024-01-29 #todo #biblereading
+- [ ] [[Exodus 1]] 🔁 every year 📅 2024-01-30 #todo #biblereading
+- [ ] [[Exodus 2]] 🔁 every year 📅 2024-01-30 #todo #biblereading
+- [ ] [[Exodus 3]] 🔁 every year 📅 2024-01-30 #todo #biblereading
+- [ ] [[Exodus 4]] 🔁 every year 📅 2024-01-31 #todo #biblereading
+- [ ] [[Exodus 5]] 🔁 every year 📅 2024-01-31 #todo #biblereading
+- [ ] [[Exodus 6]] 🔁 every year 📅 2024-01-31 #todo #biblereading
+- [ ] [[Exodus 7]] 🔁 every year 📅 2024-02-01 #todo #biblereading
+- [ ] [[Exodus 8]] 🔁 every year 📅 2024-02-01 #todo #biblereading
+- [ ] [[Exodus 9]] 🔁 every year 📅 2024-02-01 #todo #biblereading
+- [ ] [[Exodus 10]] 🔁 every year 📅 2024-02-02 #todo #biblereading
+- [ ] [[Exodus 11]] 🔁 every year 📅 2024-02-02 #todo #biblereading
+- [ ] [[Exodus 12]] 🔁 every year 📅 2024-02-02 #todo #biblereading
+- [ ] [[Exodus 13]] 🔁 every year 📅 2024-02-03 #todo #biblereading
+- [ ] [[Exodus 14]] 🔁 every year 📅 2024-02-03 #todo #biblereading
+- [ ] [[Exodus 15]] 🔁 every year 📅 2024-02-03 #todo #biblereading
+- [ ] [[Exodus 16]] 🔁 every year 📅 2024-02-04 #todo #biblereading
+- [ ] [[Exodus 17]] 🔁 every year 📅 2024-02-04 #todo #biblereading
+- [ ] [[Exodus 18]] 🔁 every year 📅 2024-02-04 #todo #biblereading
+- [ ] [[Exodus 19]] 🔁 every year 📅 2024-02-05 #todo #biblereading
+- [ ] [[Exodus 20]] 🔁 every year 📅 2024-02-05 #todo #biblereading
+- [ ] [[Exodus 21]] 🔁 every year 📅 2024-02-05 #todo #biblereading
+- [ ] [[Exodus 22]] 🔁 every year 📅 2024-02-06 #todo #biblereading
+- [ ] [[Exodus 23]] 🔁 every year 📅 2024-02-06 #todo #biblereading
+- [ ] [[Exodus 24]] 🔁 every year 📅 2024-02-06 #todo #biblereading
+- [ ] [[Exodus 25]] 🔁 every year 📅 2024-02-07 #todo #biblereading
+- [ ] [[Exodus 26]] 🔁 every year 📅 2024-02-07 #todo #biblereading
+- [ ] [[Exodus 27]] 🔁 every year 📅 2024-02-07 #todo #biblereading
+- [ ] [[Exodus 28]] 🔁 every year 📅 2024-02-08 #todo #biblereading
+- [ ] [[Exodus 29]] 🔁 every year 📅 2024-02-08 #todo #biblereading
+- [ ] [[Exodus 30]] 🔁 every year 📅 2024-02-09 #todo #biblereading
+- [ ] [[Exodus 31]] 🔁 every year 📅 2024-02-09 #todo #biblereading
+- [ ] [[Exodus 32]] 🔁 every year 📅 2024-02-09 #todo #biblereading
+- [ ] [[Exodus 33]] 🔁 every year 📅 2024-02-10 #todo #biblereading
+- [ ] [[Exodus 34]] 🔁 every year 📅 2024-02-10 #todo #biblereading
+- [ ] [[Exodus 35]] 🔁 every year 📅 2024-02-10 #todo #biblereading
+- [ ] [[Exodus 36]] 🔁 every year 📅 2024-02-11 #todo #biblereading
+- [ ] [[Exodus 37]] 🔁 every year 📅 2024-02-11 #todo #biblereading
+- [ ] [[Exodus 38]] 🔁 every year 📅 2024-02-11 #todo #biblereading
+- [ ] [[Exodus 39]] 🔁 every year 📅 2024-02-12 #todo #biblereading
+- [ ] [[Exodus 40]] 🔁 every year 📅 2024-02-12 #todo #biblereading
+- [ ] [[Leviticus 1]] 🔁 every year 📅 2024-02-13 #todo #biblereading
+- [ ] [[Leviticus 2]] 🔁 every year 📅 2024-02-13 #todo #biblereading
+- [ ] [[Leviticus 3]] 🔁 every year 📅 2024-02-13 #todo #biblereading
+- [ ] [[Leviticus 4]] 🔁 every year 📅 2024-02-13 #todo #biblereading
+- [ ] [[Leviticus 5]] 🔁 every year 📅 2024-02-14 #todo #biblereading
+- [ ] [[Leviticus 6]] 🔁 every year 📅 2024-02-14 #todo #biblereading
+- [ ] [[Leviticus 7]] 🔁 every year 📅 2024-02-14 #todo #biblereading
+- [ ] [[Leviticus 8]] 🔁 every year 📅 2024-02-15 #todo #biblereading
+- [ ] [[Leviticus 9]] 🔁 every year 📅 2024-02-15 #todo #biblereading
+- [ ] [[Leviticus 10]] 🔁 every year 📅 2024-02-15 #todo #biblereading
+- [ ] [[Leviticus 11]] 🔁 every year 📅 2024-02-16 #todo #biblereading
+- [ ] [[Leviticus 12]] 🔁 every year 📅 2024-02-16 #todo #biblereading
+- [ ] [[Leviticus 13]] 🔁 every year 📅 2024-02-16 #todo #biblereading
+- [ ] [[Leviticus 14]] 🔁 every year 📅 2024-02-17 #todo #biblereading
+- [ ] [[Leviticus 15]] 🔁 every year 📅 2024-02-17 #todo #biblereading
+- [ ] [[Leviticus 16]] 🔁 every year 📅 2024-02-18 #todo #biblereading
+- [ ] [[Leviticus 17]] 🔁 every year 📅 2024-02-18 #todo #biblereading
+- [ ] [[Leviticus 18]] 🔁 every year 📅 2024-02-18 #todo #biblereading
+- [ ] [[Leviticus 19]] 🔁 every year 📅 2024-02-19 #todo #biblereading
+- [ ] [[Leviticus 20]] 🔁 every year 📅 2024-02-19 #todo #biblereading
+- [ ] [[Leviticus 21]] 🔁 every year 📅 2024-02-19 #todo #biblereading
+- [ ] [[Leviticus 22]] 🔁 every year 📅 2024-02-20 #todo #biblereading
+- [ ] [[Leviticus 23]] 🔁 every year 📅 2024-02-20 #todo #biblereading
+- [ ] [[Leviticus 24]] 🔁 every year 📅 2024-02-21 #todo #biblereading
+- [ ] [[Leviticus 25]] 🔁 every year 📅 2024-02-21 #todo #biblereading
+- [ ] [[Leviticus 26]] 🔁 every year 📅 2024-02-22 #todo #biblereading
+- [ ] [[Leviticus 27]] 🔁 every year 📅 2024-02-22 #todo #biblereading
+- [ ] [[Numbers 1]] 🔁 every year 📅 2024-02-23 #todo #biblereading
+- [ ] [[Numbers 2]] 🔁 every year 📅 2024-02-23 #todo #biblereading
+- [ ] [[Numbers 3]] 🔁 every year 📅 2024-02-24 #todo #biblereading
+- [ ] [[Numbers 4]] 🔁 every year 📅 2024-02-24 #todo #biblereading
+- [ ] [[Numbers 5]] 🔁 every year 📅 2024-02-25 #todo #biblereading
+- [ ] [[Numbers 6]] 🔁 every year 📅 2024-02-25 #todo #biblereading
+- [ ] [[Numbers 7]] 🔁 every year 📅 2024-02-26 #todo #biblereading
+- [ ] [[Numbers 8]] 🔁 every year 📅 2024-02-27 #todo #biblereading
+- [ ] [[Numbers 9]] 🔁 every year 📅 2024-02-27 #todo #biblereading
+- [ ] [[Numbers 10]] 🔁 every year 📅 2024-02-27 #todo #biblereading
+- [ ] [[Numbers 11]] 🔁 every year 📅 2024-02-28 #todo #biblereading
+- [ ] [[Numbers 12]] 🔁 every year 📅 2024-02-28 #todo #biblereading
+- [ ] [[Numbers 13]] 🔁 every year 📅 2024-02-28 #todo #biblereading
+- [ ] [[Numbers 14]] 🔁 every year 📅 2024-03-01 #todo #biblereading
+- [ ] [[Numbers 15]] 🔁 every year 📅 2024-03-01 #todo #biblereading
+- [ ] [[Psalms 90]] 🔁 every year 📅 2024-03-01 #todo #biblereading
+- [ ] [[Numbers 16]] 🔁 every year 📅 2024-03-02 #todo #biblereading
+- [ ] [[Numbers 17]] 🔁 every year 📅 2024-03-02 #todo #biblereading
+- [ ] [[Numbers 18]] 🔁 every year 📅 2024-03-03 #todo #biblereading
+- [ ] [[Numbers 19]] 🔁 every year 📅 2024-03-03 #todo #biblereading
+- [ ] [[Numbers 20]] 🔁 every year 📅 2024-03-03 #todo #biblereading
+- [ ] [[Numbers 21]] 🔁 every year 📅 2024-03-04 #todo #biblereading
+- [ ] [[Numbers 22]] 🔁 every year 📅 2024-03-04 #todo #biblereading
+- [ ] [[Numbers 23]] 🔁 every year 📅 2024-03-05 #todo #biblereading
+- [ ] [[Numbers 24]] 🔁 every year 📅 2024-03-05 #todo #biblereading
+- [ ] [[Numbers 25]] 🔁 every year 📅 2024-03-05 #todo #biblereading
+- [ ] [[Numbers 26]] 🔁 every year 📅 2024-03-06 #todo #biblereading
+- [ ] [[Numbers 26]] 🔁 every year 📅 2024-03-06  #todo #biblereading
+- [ ] [[Numbers 27]] 🔁 every year 📅 2024-03-06 #todo #biblereading
+- [ ] [[Numbers 27]] 🔁 every year 📅 2024-03-06  #todo #biblereading
+- [ ] [[Numbers 28]] 🔁 every year 📅 2024-03-07 #todo #biblereading
+- [ ] [[Numbers 29]] 🔁 every year 📅 2024-03-07 #todo #biblereading
+- [ ] [[Numbers 30]] 🔁 every year 📅 2024-03-07 #todo #biblereading
+- [ ] [[Numbers 31]] 🔁 every year 📅 2024-03-08 #todo #biblereading
+- [ ] [[Numbers 32]] 🔁 every year 📅 2024-03-08 #todo #biblereading
+- [ ] [[Numbers 33]] 🔁 every year 📅 2024-03-09 #todo #biblereading
+- [ ] [[Numbers 34]] 🔁 every year 📅 2024-03-09 #todo #biblereading
+- [ ] [[Numbers 35]] 🔁 every year 📅 2024-03-10 #todo #biblereading
+- [ ] [[Numbers 36]] 🔁 every year 📅 2024-03-10 #todo #biblereading
+- [ ] [[Deuteronomy 1]] 🔁 every year 📅 2024-03-11 #todo #biblereading
+- [ ] [[Deuteronomy 2]] 🔁 every year 📅 2024-03-11 #todo #biblereading
+- [ ] [[Deuteronomy 3]] 🔁 every year 📅 2024-03-12 #todo #biblereading
+- [ ] [[Deuteronomy 4]] 🔁 every year 📅 2024-03-12 #todo #biblereading
+- [ ] [[Deuteronomy 5]] 🔁 every year 📅 2024-03-13 #todo #biblereading
+- [ ] [[Deuteronomy 6]] 🔁 every year 📅 2024-03-13 #todo #biblereading
+- [ ] [[Deuteronomy 7]] 🔁 every year 📅 2024-03-13 #todo #biblereading
+- [ ] [[Deuteronomy 8]] 🔁 every year 📅 2024-03-14 #todo #biblereading
+- [ ] [[Deuteronomy 9]] 🔁 every year 📅 2024-03-14 #todo #biblereading
+- [ ] [[Deuteronomy 10]] 🔁 every year 📅 2024-03-14 #todo #biblereading
+- [ ] [[Deuteronomy 11]] 🔁 every year 📅 2024-03-15 #todo #biblereading
+- [ ] [[Deuteronomy 12]] 🔁 every year 📅 2024-03-15 #todo #biblereading
+- [ ] [[Deuteronomy 13]] 🔁 every year 📅 2024-03-15 #todo #biblereading
+- [ ] [[Deuteronomy 14]] 🔁 every year 📅 2024-03-16 #todo #biblereading
+- [ ] [[Deuteronomy 15]] 🔁 every year 📅 2024-03-16 #todo #biblereading
+- [ ] [[Deuteronomy 16]] 🔁 every year 📅 2024-03-16 #todo #biblereading
+- [ ] [[Deuteronomy 17]] 🔁 every year 📅 2024-03-17 #todo #biblereading
+- [ ] [[Deuteronomy 18]] 🔁 every year 📅 2024-03-17 #todo #biblereading
+- [ ] [[Deuteronomy 19]] 🔁 every year 📅 2024-03-17 #todo #biblereading
+- [ ] [[Deuteronomy 20]] 🔁 every year 📅 2024-03-17 #todo #biblereading
+- [ ] [[Deuteronomy 21]] 🔁 every year 📅 2024-03-18 #todo #biblereading
+- [ ] [[Deuteronomy 22]] 🔁 every year 📅 2024-03-18 #todo #biblereading
+- [ ] [[Deuteronomy 23]] 🔁 every year 📅 2024-03-18 #todo #biblereading
+- [ ] [[Deuteronomy 24]] 🔁 every year 📅 2024-03-19 #todo #biblereading
+- [ ] [[Deuteronomy 25]] 🔁 every year 📅 2024-03-19 #todo #biblereading
+- [ ] [[Deuteronomy 26]] 🔁 every year 📅 2024-03-19 #todo #biblereading
+- [ ] [[Deuteronomy 27]] 🔁 every year 📅 2024-03-19 #todo #biblereading
+- [ ] [[Deuteronomy 28]] #todo #biblereading 🔁 every year 📅 2024-03-20
+- [ ] [[Deuteronomy 28]] #todo #biblereading 🔁 every year 📅 2024-03-20
+- [ ] [[Deuteronomy 29]] #todo #biblereading 🔁 every year 📅 2024-03-20
+- [ ] [[Deuteronomy 29]] #todo #biblereading 🔁 every year 📅 2024-03-20
+- [ ] [[Deuteronomy 30]] 🔁 every year 📅 2024-03-21 #todo #biblereading
+- [ ] [[Deuteronomy 31]] 🔁 every year 📅 2024-03-21 #todo #biblereading
+- [ ] [[Deuteronomy 32]] 🔁 every year 📅 2024-03-22 #todo #biblereading
+- [ ] [[Deuteronomy 33]] 🔁 every year 📅 2024-03-22 #todo #biblereading
+- [ ] [[Deuteronomy 34]] 🔁 every year 📅 2024-03-22 #todo #biblereading
+- [ ] [[Psalms 91]] 🔁 every year 📅 2024-03-22 #todo #biblereading
+- [ ] [[Joshua 1]] 🔁 every year 📅 2024-03-23 #todo #biblereading
+- [ ] [[Joshua 2]] 🔁 every year 📅 2024-03-23 #todo #biblereading
+- [ ] [[Joshua 3]] 🔁 every year 📅 2024-03-23 #todo #biblereading
+- [ ] [[Joshua 4]] 🔁 every year 📅 2024-03-23 #todo #biblereading
+- [ ] [[Joshua 5]] 🔁 every year 📅 2024-03-24 #todo #biblereading
+- [ ] [[Joshua 6]] 🔁 every year 📅 2024-03-24 #todo #biblereading
+- [ ] [[Joshua 7]] 🔁 every year 📅 2024-03-24 #todo #biblereading
+- [ ] [[Joshua 8]] 🔁 every year 📅 2024-03-24 #todo #biblereading
+- [ ] [[Joshua 9]] 🔁 every year 📅 2024-03-25 #todo #biblereading
+- [ ] [[Joshua 10]] 🔁 every year 📅 2024-03-25 #todo #biblereading
+- [ ] [[Joshua 11]] 🔁 every year 📅 2024-03-25 #todo #biblereading
+- [ ] [[Joshua 12]] 🔁 every year 📅 2024-03-26 #todo #biblereading
+- [ ] [[Joshua 13]] 🔁 every year 📅 2024-03-26 #todo #biblereading
+- [ ] [[Joshua 14]] 🔁 every year 📅 2024-03-26 #todo #biblereading
+- [ ] [[Joshua 15]] 🔁 every year 📅 2024-03-26 #todo #biblereading
+- [ ] [[Joshua 16]] 🔁 every year 📅 2024-03-27 #todo #biblereading
+- [ ] [[Joshua 17]] 🔁 every year 📅 2024-03-27 #todo #biblereading
+- [ ] [[Joshua 18]] 🔁 every year 📅 2024-03-27 #todo #biblereading
+- [ ] [[Joshua 19]] 🔁 every year 📅 2024-03-28 #todo #biblereading
+- [ ] [[Joshua 20]] 🔁 every year 📅 2024-03-28 #todo #biblereading
+- [ ] [[Joshua 21]] 🔁 every year 📅 2024-03-28 #todo #biblereading
+- [ ] [[Joshua 22]] 🔁 every year 📅 2024-03-29 #todo #biblereading
+- [ ] [[Joshua 23]] 🔁 every year 📅 2024-03-29 #todo #biblereading
+- [ ] [[Joshua 24]] 🔁 every year 📅 2024-03-29 #todo #biblereading
+- [ ] [[Judges 1]] 🔁 every year 📅 2024-03-30 #todo #biblereading
+- [ ] [[Judges 2]] 🔁 every year 📅 2024-03-30 #todo #biblereading
+- [ ] [[Judges 3]] 🔁 every year 📅 2024-03-31 #todo #biblereading
+- [ ] [[Judges 4]] 🔁 every year 📅 2024-03-31 #todo #biblereading
+- [ ] [[Judges 5]] 🔁 every year 📅 2024-03-31 #todo #biblereading
+- [ ] [[Judges 6]] 🔁 every year 📅 2024-04-01 #todo #biblereading
+- [ ] [[Judges 7]] 🔁 every year 📅 2024-04-01 #todo #biblereading
+- [ ] [[Judges 8]] 🔁 every year 📅 2024-04-02 #todo #biblereading
+- [ ] [[Judges 9]] 🔁 every year 📅 2024-04-02 #todo #biblereading
+- [ ] [[Judges 10]] 🔁 every year 📅 2024-04-03 #todo #biblereading
+- [ ] [[Judges 11]] 🔁 every year 📅 2024-04-03 #todo #biblereading
+- [ ] [[Judges 12]] 🔁 every year 📅 2024-04-03 #todo #biblereading
+- [ ] [[Judges 13]] 🔁 every year 📅 2024-04-04 #todo #biblereading
+- [ ] [[Judges 14]] 🔁 every year 📅 2024-04-04 #todo #biblereading
+- [ ] [[Judges 15]] 🔁 every year 📅 2024-04-04 #todo #biblereading
+- [ ] [[Judges 16]] 🔁 every year 📅 2024-04-05 #todo #biblereading
+- [ ] [[Judges 17]] 🔁 every year 📅 2024-04-05 #todo #biblereading
+- [ ] [[Judges 18]] 🔁 every year 📅 2024-04-05 #todo #biblereading
+- [ ] [[Judges 19]] 🔁 every year 📅 2024-04-06 #todo #biblereading
+- [ ] [[Judges 20]] 🔁 every year 📅 2024-04-06 #todo #biblereading
+- [ ] [[Judges 21]] 🔁 every year 📅 2024-04-06 #todo #biblereading
+- [ ] [[Ruth 1]] 🔁 every year 📅 2024-04-07 #todo #biblereading
+- [ ] [[Ruth 2]] 🔁 every year 📅 2024-04-07 #todo #biblereading
+- [ ] [[Ruth 3]] 🔁 every year 📅 2024-04-07 #todo #biblereading
+- [ ] [[Ruth 4]] 🔁 every year 📅 2024-04-07 #todo #biblereading
+- [ ] [[1 Samuel 1]] 🔁 every year 📅 2024-04-08 #todo #biblereading
+- [ ] [[1 Samuel 2]] 🔁 every year 📅 2024-04-08 #todo #biblereading
+- [ ] [[1 Samuel 3]] 🔁 every year 📅 2024-04-08 #todo #biblereading
+- [ ] [[1 Samuel 4]] 🔁 every year 📅 2024-04-09 #todo #biblereading
+- [ ] [[1 Samuel 5]] 🔁 every year 📅 2024-04-09 #todo #biblereading
+- [ ] [[1 Samuel 6]] 🔁 every year 📅 2024-04-09 #todo #biblereading
+- [ ] [[1 Samuel 7]] 🔁 every year 📅 2024-04-09 #todo #biblereading
+- [ ] [[1 Samuel 8]] 🔁 every year 📅 2024-04-09 #todo #biblereading
+- [ ] [[1 Samuel 9]] 🔁 every year 📅 2024-04-10 #todo #biblereading
+- [ ] [[1 Samuel 10]] 🔁 every year 📅 2024-04-10 #todo #biblereading
+- [ ] [[1 Samuel 11]] 🔁 every year 📅 2024-04-10 #todo #biblereading
+- [ ] [[1 Samuel 12]] 🔁 every year 📅 2024-04-10 #todo #biblereading
+- [ ] [[1 Samuel 13]] 🔁 every year 📅 2024-04-11 #todo #biblereading
+- [ ] [[1 Samuel 14]] 🔁 every year 📅 2024-04-11 #todo #biblereading
+- [ ] [[1 Samuel 15]] 🔁 every year 📅 2024-04-12 #todo #biblereading
+- [ ] [[1 Samuel 16]] 🔁 every year 📅 2024-04-12 #todo #biblereading
+- [ ] [[1 Samuel 17]] 🔁 every year 📅 2024-04-12 #todo #biblereading
+- [ ] [[1 Samuel 18]] 🔁 every year 📅 2024-04-13 #todo #biblereading
+- [ ] [[1 Samuel 19]] 🔁 every year 📅 2024-04-13 #todo #biblereading
+- [ ] [[1 Samuel 20]] 🔁 every year 📅 2024-04-13 #todo #biblereading
+- [ ] [[Psalms 11]] 🔁 every year 📅 2024-04-13 #todo #biblereading
+- [ ] [[Psalms 59]] 🔁 every year 📅 2024-04-13 #todo #biblereading
+- [ ] [[1 Samuel 21]] 🔁 every year 📅 2024-04-14 #todo #biblereading
+- [ ] [[1 Samuel 22]] 🔁 every year 📅 2024-04-14 #todo #biblereading
+- [ ] [[1 Samuel 23]] 🔁 every year 📅 2024-04-14 #todo #biblereading
+- [ ] [[1 Samuel 24]] 🔁 every year 📅 2024-04-14 #todo #biblereading
+- [ ] [[Psalms 7]] 🔁 every year 📅 2024-04-15 #todo #biblereading
+- [ ] [[Psalms 27]] 🔁 every year 📅 2024-04-15 #todo #biblereading
+- [ ] [[Psalms 31]] 🔁 every year 📅 2024-04-15 #todo #biblereading
+- [ ] [[Psalms 34]] 🔁 every year 📅 2024-04-15 #todo #biblereading
+- [ ] [[Psalms 52]] 🔁 every year 📅 2024-04-15 #todo #biblereading
+- [ ] [[Psalms 56]] 🔁 every year 📅 2024-04-16 #todo #biblereading
+- [ ] [[Psalms 120]] 🔁 every year 📅 2024-04-16 #todo #biblereading
+- [ ] [[Psalms 140]] 🔁 every year 📅 2024-04-16 #todo #biblereading
+- [ ] [[Psalms 141]] 🔁 every year 📅 2024-04-16 #todo #biblereading
+- [ ] [[Psalms 142]] 🔁 every year 📅 2024-04-16 #todo #biblereading
+- [ ] [[1 Samuel 25]] 🔁 every year 📅 2024-04-17 #todo #biblereading
+- [ ] [[1 Samuel 26]] 🔁 every year 📅 2024-04-17 #todo #biblereading
+- [ ] [[1 Samuel 27]] 🔁 every year 📅 2024-04-17 #todo #biblereading
+- [ ] [[Psalms 17]] 🔁 every year 📅 2024-04-18 #todo #biblereading
+- [ ] [[Psalms 35]] 🔁 every year 📅 2024-04-18 #todo #biblereading
+- [ ] [[Psalms 54]] 🔁 every year 📅 2024-04-18 #todo #biblereading
+- [ ] [[Psalms 63]] 🔁 every year 📅 2024-04-18 #todo #biblereading
+- [ ] [[1 Samuel 28]] 🔁 every year 📅 2024-04-19 #todo #biblereading
+- [ ] [[1 Samuel 29]] 🔁 every year 📅 2024-04-19 #todo #biblereading
+- [ ] [[1 Samuel 30]] 🔁 every year 📅 2024-04-19 #todo #biblereading
+- [ ] [[1 Samuel 31]] 🔁 every year 📅 2024-04-19 #todo #biblereading
+- [ ] [[Psalms 18]] 🔁 every year 📅 2024-04-19 #todo #biblereading
+- [ ] [[Psalms 121]] 🔁 every year 📅 2024-04-20 #todo #biblereading
+- [ ] [[Psalms 123]] 🔁 every year 📅 2024-04-20 #todo #biblereading
+- [ ] [[Psalms 124]] 🔁 every year 📅 2024-04-20 #todo #biblereading
+- [ ] [[Psalms 125]] 🔁 every year 📅 2024-04-20 #todo #biblereading
+- [ ] [[Psalms 128]] 🔁 every year 📅 2024-04-20 #todo #biblereading
+- [ ] [[Psalms 129]] 🔁 every year 📅 2024-04-20 #todo #biblereading
+- [ ] [[Psalms 130]] 🔁 every year 📅 2024-04-20 #todo #biblereading
+- [ ] [[2 Samuel 1]] 🔁 every year 📅 2024-04-21 #todo #biblereading
+- [ ] [[2 Samuel 2]] 🔁 every year 📅 2024-04-21 #todo #biblereading
+- [ ] [[2 Samuel 3]] 🔁 every year 📅 2024-04-21 #todo #biblereading
+- [ ] [[2 Samuel 4]] 🔁 every year 📅 2024-04-21 #todo #biblereading
+- [ ] [[Psalms 6]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[Psalms 8]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[Psalms 9]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[Psalms 10]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[Psalms 14]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[Psalms 16]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[Psalms 19]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[Psalms 21]] 🔁 every year 📅 2024-04-22 #todo #biblereading
+- [ ] [[1 Chronicles 1]] 🔁 every year 📅 2024-04-23 #todo #biblereading
+- [ ] [[1 Chronicles 2]] 🔁 every year 📅 2024-04-23 #todo #biblereading
+- [ ] [[Psalms 43]] 🔁 every year 📅 2024-04-24 #todo #biblereading
+- [ ] [[Psalms 44]] 🔁 every year 📅 2024-04-24 #todo #biblereading
+- [ ] [[Psalms 45]] 🔁 every year 📅 2024-04-24 #todo #biblereading
+- [ ] [[Psalms 49]] 🔁 every year 📅 2024-04-24 #todo #biblereading
+- [ ] [[Psalms 84]] 🔁 every year 📅 2024-04-24 #todo #biblereading
+- [ ] [[Psalms 85]] 🔁 every year 📅 2024-04-24 #todo #biblereading
+- [ ] [[Psalms 87]] 🔁 every year 📅 2024-04-24 #todo #biblereading
+- [ ] [[1 Chronicles 3]] 🔁 every year 📅 2024-04-25 #todo #biblereading
+- [ ] [[1 Chronicles 4]] 🔁 every year 📅 2024-04-25 #todo #biblereading
+- [ ] [[1 Chronicles 5]] 🔁 every year 📅 2024-04-25 #todo #biblereading
+- [ ] [[Psalms 73]] 🔁 every year 📅 2024-04-26 #todo #biblereading
+- [ ] [[Psalms 77]] 🔁 every year 📅 2024-04-26 #todo #biblereading
+- [ ] [[Psalms 78]] 🔁 every year 📅 2024-04-26 #todo #biblereading
+- [ ] [[1 Chronicles 6]] 🔁 every year 📅 2024-04-27 #todo #biblereading
+- [ ] [[Psalms 81]] 🔁 every year 📅 2024-04-28 #todo #biblereading
+- [ ] [[Psalms 88]] 🔁 every year 📅 2024-04-28 #todo #biblereading
+- [ ] [[Psalms 92]] 🔁 every year 📅 2024-04-28 #todo #biblereading
+- [ ] [[Psalms 93]] 🔁 every year 📅 2024-04-28 #todo #biblereading
+- [ ] [[1 Chronicles 7]] 🔁 every year 📅 2024-04-29 #todo #biblereading
+- [ ] [[1 Chronicles 8]] 🔁 every year 📅 2024-04-29 #todo #biblereading
+- [ ] [[1 Chronicles 9]] 🔁 every year 📅 2024-04-29 #todo #biblereading
+- [ ] [[1 Chronicles 10]] 🔁 every year 📅 2024-04-29 #todo #biblereading
+- [ ] [[Psalms 102]] 🔁 every year 📅 2024-04-30 #todo #biblereading
+- [ ] [[Psalms 103]] 🔁 every year 📅 2024-04-30 #todo #biblereading
+- [ ] [[Psalms 104]] 🔁 every year 📅 2024-04-30 #todo #biblereading
+- [ ] [[2 Samuel 5|2 Samuel 5:1-10]] 🔁 every year 📅 2024-05-01  #todo #biblereading
+- [ ] [[1 Chronicles 11]] 🔁 every year 📅 2024-05-01 #todo #biblereading
+- [ ] [[1 Chronicles 12]] 🔁 every year 📅 2024-05-01 #todo #biblereading
+- [ ] [[Psalms 133]] 🔁 every year 📅 2024-05-02 #todo #biblereading
+- [ ] [[Psalms 106]] 🔁 every year 📅 2024-05-03 #todo #biblereading
+- [ ] [[Psalms 107]] 🔁 every year 📅 2024-05-03 #todo #biblereading
+- [ ] [[2 Samuel 5|2 Samuel 5:11-25]] 🔁 every year 📅 2024-05-04 #todo #biblereading
+- [ ] [[2 Samuel 6]] 🔁 every year 📅 2024-05-04 #todo #biblereading
+- [ ] [[1 Chronicles 13]] 🔁 every year 📅 2024-05-04 #todo #biblereading
+- [ ] [[1 Chronicles 14]] 🔁 every year 📅 2024-05-04 #todo #biblereading
+- [ ] [[1 Chronicles 15]] 🔁 every year 📅 2024-05-04 #todo #biblereading
+- [ ] [[1 Chronicles 16]] 🔁 every year 📅 2024-05-04 #todo #biblereading
+- [ ] [[Psalms 1]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 2]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 15]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 22]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 23]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 24]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 47]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 68]] 🔁 every year 📅 2024-05-05 #todo #biblereading
+- [ ] [[Psalms 89]] 🔁 every year 📅 2024-05-06 #todo #biblereading
+- [ ] [[Psalms 96]] 🔁 every year 📅 2024-05-06 #todo #biblereading
+- [ ] [[Psalms 100]] 🔁 every year 📅 2024-05-06 #todo #biblereading
+- [ ] [[Psalms 101]] 🔁 every year 📅 2024-05-06 #todo #biblereading
+- [ ] [[Psalms 105]] 🔁 every year 📅 2024-05-06 #todo #biblereading
+- [ ] [[Psalms 132]] 🔁 every year 📅 2024-05-06 #todo #biblereading
+- [ ] [[2 Samuel 7]] 🔁 every year 📅 2024-05-07 #todo #biblereading
+- [ ] [[1 Chronicles 17]] 🔁 every year 📅 2024-05-07 #todo #biblereading
+- [ ] [[Psalms 25]] 🔁 every year 📅 2024-05-08 #todo #biblereading
+- [ ] [[Psalms 29]] 🔁 every year 📅 2024-05-08 #todo #biblereading
+- [ ] [[Psalms 33]] 🔁 every year 📅 2024-05-08 #todo #biblereading
+- [ ] [[Psalms 36]] 🔁 every year 📅 2024-05-08 #todo #biblereading
+- [ ] [[Psalms 39]] 🔁 every year 📅 2024-05-08 #todo #biblereading
+- [ ] [[2 Samuel 8]] 🔁 every year 📅 2024-05-09 #todo #biblereading
+- [ ] [[2 Samuel 9]] 🔁 every year 📅 2024-05-09 #todo #biblereading
+- [ ] [[1 Chronicles 18]] 🔁 every year 📅 2024-05-09 #todo #biblereading
+- [ ] [[Psalms 50]] 🔁 every year 📅 2024-05-10 #todo #biblereading
+- [ ] [[Psalms 53]] 🔁 every year 📅 2024-05-10 #todo #biblereading
+- [ ] [[Psalms 60]] 🔁 every year 📅 2024-05-10 #todo #biblereading
+- [ ] [[Psalms 75]] 🔁 every year 📅 2024-05-10 #todo #biblereading
+- [ ] [[2 Samuel 10]] 🔁 every year 📅 2024-05-11 #todo #biblereading
+- [ ] [[1 Chronicles 19]] 🔁 every year 📅 2024-05-11 #todo #biblereading
+- [ ] [[Psalms 20]] 🔁 every year 📅 2024-05-11 #todo #biblereading
+- [ ] [[Psalms 65]] 🔁 every year 📅 2024-05-12 #todo #biblereading
+- [ ] [[Psalms 66]] 🔁 every year 📅 2024-05-12 #todo #biblereading
+- [ ] [[Psalms 67]] 🔁 every year 📅 2024-05-12 #todo #biblereading
+- [ ] [[Psalms 69]] 🔁 every year 📅 2024-05-12 #todo #biblereading
+- [ ] [[Psalms 70]] 🔁 every year 📅 2024-05-12 #todo #biblereading
+- [ ] [[2 Samuel 11]] 🔁 every year 📅 2024-05-13 #todo #biblereading
+- [ ] [[2 Samuel 12]] 🔁 every year 📅 2024-05-13 #todo #biblereading
+- [ ] [[1 Chronicles 20]] 🔁 every year 📅 2024-05-13 #todo #biblereading
+- [ ] [[Psalms 32]] 🔁 every year 📅 2024-05-14 #todo #biblereading
+- [ ] [[Psalms 51]] 🔁 every year 📅 2024-05-14 #todo #biblereading
+- [ ] [[Psalms 86]] 🔁 every year 📅 2024-05-14 #todo #biblereading
+- [ ] [[Psalms 122]] 🔁 every year 📅 2024-05-14 #todo #biblereading
+- [ ] [[2 Samuel 13]] 🔁 every year 📅 2024-05-15 #todo #biblereading
+- [ ] [[2 Samuel 14]] 🔁 every year 📅 2024-05-15 #todo #biblereading
+- [ ] [[2 Samuel 15]] 🔁 every year 📅 2024-05-15 #todo #biblereading
+- [ ] [[Psalms 3]] 🔁 every year 📅 2024-05-16 #todo #biblereading
+- [ ] [[Psalms 4]] 🔁 every year 📅 2024-05-16 #todo #biblereading
+- [ ] [[Psalms 12]] 🔁 every year 📅 2024-05-16 #todo #biblereading
+- [ ] [[Psalms 13]] 🔁 every year 📅 2024-05-16 #todo #biblereading
+- [ ] [[Psalms 28]] 🔁 every year 📅 2024-05-16 #todo #biblereading
+- [ ] [[Psalms 55]] 🔁 every year 📅 2024-05-16 #todo #biblereading
+- [ ] [[2 Samuel 16]] 🔁 every year 📅 2024-05-17 #todo #biblereading
+- [ ] [[2 Samuel 17]] 🔁 every year 📅 2024-05-17 #todo #biblereading
+- [ ] [[2 Samuel 18]] 🔁 every year 📅 2024-05-17 #todo #biblereading
+- [ ] [[Psalms 26]] 🔁 every year 📅 2024-05-18 #todo #biblereading
+- [ ] [[Psalms 40]] 🔁 every year 📅 2024-05-18 #todo #biblereading
+- [ ] [[Psalms 58]] 🔁 every year 📅 2024-05-18 #todo #biblereading
+- [ ] [[Psalms 61]] 🔁 every year 📅 2024-05-18 #todo #biblereading
+- [ ] [[Psalms 62]] 🔁 every year 📅 2024-05-18 #todo #biblereading
+- [ ] [[Psalms 64]] 🔁 every year 📅 2024-05-18 #todo #biblereading
+- [ ] [[2 Samuel 19]] 🔁 every year 📅 2024-05-19 #todo #biblereading
+- [ ] [[2 Samuel 20]] 🔁 every year 📅 2024-05-19 #todo #biblereading
+- [ ] [[2 Samuel 21]] 🔁 every year 📅 2024-05-19 #todo #biblereading
+- [ ] [[Psalms 5]] 🔁 every year 📅 2024-05-20 #todo #biblereading
+- [ ] [[Psalms 38]] 🔁 every year 📅 2024-05-20 #todo #biblereading
+- [ ] [[Psalms 41]] 🔁 every year 📅 2024-05-20 #todo #biblereading
+- [ ] [[Psalms 42]] 🔁 every year 📅 2024-05-20 #todo #biblereading
+- [ ] [[2 Samuel 22]] 🔁 every year 📅 2024-05-21 #todo #biblereading
+- [ ] [[2 Samuel 23]] 🔁 every year 📅 2024-05-21 #todo #biblereading
+- [ ] [[Psalms 57]] 🔁 every year 📅 2024-05-21 #todo #biblereading
+- [ ] [[Psalms 95]] 🔁 every year 📅 2024-05-22 #todo #biblereading
+- [ ] [[Psalms 97]] 🔁 every year 📅 2024-05-22 #todo #biblereading
+- [ ] [[Psalms 98]] 🔁 every year 📅 2024-05-22 #todo #biblereading
+- [ ] [[Psalms 99]] 🔁 every year 📅 2024-05-22 #todo #biblereading
+- [ ] [[2 Samuel 24]] 🔁 every year 📅 2024-05-23 #todo #biblereading
+- [ ] [[1 Chronicles 21]] 🔁 every year 📅 2024-05-23 #todo #biblereading
+- [ ] [[1 Chronicles 22]] 🔁 every year 📅 2024-05-23 #todo #biblereading
+- [ ] [[Psalms 30]] 🔁 every year 📅 2024-05-23 #todo #biblereading
+- [ ] [[Psalms 108]] 🔁 every year 📅 2024-05-24 #todo #biblereading
+- [ ] [[Psalms 109]] 🔁 every year 📅 2024-05-24 #todo #biblereading
+- [ ] [[Psalms 110]] 🔁 every year 📅 2024-05-24 #todo #biblereading
+- [ ] [[1 Chronicles 23]] 🔁 every year 📅 2024-05-25 #todo #biblereading
+- [ ] [[1 Chronicles 24]] 🔁 every year 📅 2024-05-25 #todo #biblereading
+- [ ] [[1 Chronicles 25]] 🔁 every year 📅 2024-05-25 #todo #biblereading
+- [ ] [[Psalms 131]] 🔁 every year 📅 2024-05-26 #todo #biblereading
+- [ ] [[Psalms 138]] 🔁 every year 📅 2024-05-26 #todo #biblereading
+- [ ] [[Psalms 139]] 🔁 every year 📅 2024-05-26 #todo #biblereading
+- [ ] [[Psalms 143]] 🔁 every year 📅 2024-05-26 #todo #biblereading
+- [ ] [[Psalms 144]] 🔁 every year 📅 2024-05-26 #todo #biblereading
+- [ ] [[Psalms 145]] 🔁 every year 📅 2024-05-26 #todo #biblereading
+- [ ] [[1 Chronicles 26]] 🔁 every year 📅 2024-05-27 #todo #biblereading
+- [ ] [[1 Chronicles 27]] 🔁 every year 📅 2024-05-27 #todo #biblereading
+- [ ] [[1 Chronicles 28]] 🔁 every year 📅 2024-05-27 #todo #biblereading
+- [ ] [[1 Chronicles 29]] 🔁 every year 📅 2024-05-27 #todo #biblereading
+- [ ] [[Psalms 127]] 🔁 every year 📅 2024-05-27 #todo #biblereading
+- [ ] [[Psalms 111]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[Psalms 112]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[Psalms 113]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[Psalms 114]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[Psalms 115]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[Psalms 116]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[Psalms 117]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[Psalms 118]] 🔁 every year 📅 2024-05-28 #todo #biblereading
+- [ ] [[1 Kings 1]] 🔁 every year 📅 2024-05-29 #todo #biblereading
+- [ ] [[1 Kings 2]] 🔁 every year 📅 2024-05-29 #todo #biblereading
+- [ ] [[Psalms 37]] 🔁 every year 📅 2024-05-29 #todo #biblereading
+- [ ] [[Psalms 71]] 🔁 every year 📅 2024-05-29 #todo #biblereading
+- [ ] [[Psalms 94]] 🔁 every year 📅 2024-05-29 #todo #biblereading
+- [ ] [[Psalms 119|Psalms 119:1-88]] 🔁 every year 📅 2024-05-30 #todo #biblereading
+- [ ] [[1 Kings 3]] 🔁 every year 📅 2024-05-31 #todo #biblereading
+- [ ] [[1 Kings 4]] 🔁 every year 📅 2024-05-31 #todo #biblereading
+- [ ] [[2 Chronicles 1]] 🔁 every year 📅 2024-05-31 #todo #biblereading
+- [ ] [[Psalms 72]] 🔁 every year 📅 2024-05-31 #todo #biblereading
+- [ ] [[Psalms 119|Psalms 119:89-176]] 🔁 every year 📅 2024-06-01 #todo #biblereading
+- [ ] [[Song of Solomon 1]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Song of Solomon 2]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Song of Solomon 3]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Song of Solomon 4]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Song of Solomon 5]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Song of Solomon 6]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Song of Solomon 7]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Song of Solomon 8]] 🔁 every year 📅 2024-06-02 #todo #biblereading
+- [ ] [[Proverbs 1]] 🔁 every year 📅 2024-06-03 #todo #biblereading
+- [ ] [[Proverbs 2]] 🔁 every year 📅 2024-06-03 #todo #biblereading
+- [ ] [[Proverbs 3]] 🔁 every year 📅 2024-06-03 #todo #biblereading
+- [ ] [[Proverbs 4]] 🔁 every year 📅 2024-06-04 #todo #biblereading
+- [ ] [[Proverbs 5]] 🔁 every year 📅 2024-06-04 #todo #biblereading
+- [ ] [[Proverbs 6]] 🔁 every year 📅 2024-06-04 #todo #biblereading
+- [ ] [[Proverbs 7]] 🔁 every year 📅 2024-06-05 #todo #biblereading
+- [ ] [[Proverbs 8]] 🔁 every year 📅 2024-06-05 #todo #biblereading
+- [ ] [[Proverbs 9]] 🔁 every year 📅 2024-06-05 #todo #biblereading
+- [ ] [[Proverbs 10]] 🔁 every year 📅 2024-06-06 #todo #biblereading
+- [ ] [[Proverbs 11]] 🔁 every year 📅 2024-06-06 #todo #biblereading
+- [ ] [[Proverbs 12]] 🔁 every year 📅 2024-06-06 #todo #biblereading
+- [ ] [[Proverbs 13]] 🔁 every year 📅 2024-06-07 #todo #biblereading
+- [ ] [[Proverbs 14]] 🔁 every year 📅 2024-06-07 #todo #biblereading
+- [ ] [[Proverbs 15]] 🔁 every year 📅 2024-06-07 #todo #biblereading
+- [ ] [[Proverbs 16]] 🔁 every year 📅 2024-06-08 #todo #biblereading
+- [ ] [[Proverbs 17]] 🔁 every year 📅 2024-06-08 #todo #biblereading
+- [ ] [[Proverbs 18]] 🔁 every year 📅 2024-06-08 #todo #biblereading
+- [ ] [[Proverbs 19]] 🔁 every year 📅 2024-06-09 #todo #biblereading
+- [ ] [[Proverbs 20]] 🔁 every year 📅 2024-06-09 #todo #biblereading
+- [ ] [[Proverbs 21]] 🔁 every year 📅 2024-06-09 #todo #biblereading
+- [ ] [[Proverbs 22]] 🔁 every year 📅 2024-06-10 #todo #biblereading
+- [ ] [[Proverbs 23]] 🔁 every year 📅 2024-06-10 #todo #biblereading
+- [ ] [[Proverbs 24]] 🔁 every year 📅 2024-06-10 #todo #biblereading
+- [ ] [[1 Kings 5]] 🔁 every year 📅 2024-06-11 #todo #biblereading
+- [ ] [[1 Kings 6]] 🔁 every year 📅 2024-06-11 #todo #biblereading
+- [ ] [[2 Chronicles 2]] 🔁 every year 📅 2024-06-11 #todo #biblereading
+- [ ] [[2 Chronicles 3]] 🔁 every year 📅 2024-06-11 #todo #biblereading
+- [ ] [[1 Kings 7]] 🔁 every year 📅 2024-06-12 #todo #biblereading
+- [ ] [[2 Chronicles 4]] 🔁 every year 📅 2024-06-12 #todo #biblereading
+- [ ] [[1 Kings 8]] 🔁 every year 📅 2024-06-13 #todo #biblereading
+- [ ] [[2 Chronicles 5]] 🔁 every year 📅 2024-06-13 #todo #biblereading
+- [ ] [[2 Chronicles 6]] 🔁 every year 📅 2024-06-14 #todo #biblereading
+- [ ] [[2 Chronicles 7]] 🔁 every year 📅 2024-06-14 #todo #biblereading
+- [ ] [[Psalms 136]] 🔁 every year 📅 2024-06-14 #todo #biblereading
+- [ ] [[Psalms 134]] 🔁 every year 📅 2024-06-15 #todo #biblereading
+- [ ] [[Psalms 146]] 🔁 every year 📅 2024-06-15 #todo #biblereading
+- [ ] [[Psalms 147]] 🔁 every year 📅 2024-06-15 #todo #biblereading 
+- [ ] [[Psalms 148]] 🔁 every year 📅 2024-06-15 #todo #biblereading
+- [ ] [[Psalms 149]] 🔁 every year 📅 2024-06-15 #todo #biblereading
+- [ ] [[Psalms 150]] 🔁 every year 📅 2024-06-15 #todo #biblereading
+- [ ] [[1 Kings 9]] 🔁 every year 📅 2024-06-16 #todo #biblereading
+- [ ] [[2 Chronicles 8]] 🔁 every year 📅 2024-06-16 #todo #biblereading
+- [ ] [[Proverbs 25]] 🔁 every year 📅 2024-06-17 #todo #biblereading
+- [ ] [[Proverbs 26]] 🔁 every year 📅 2024-06-17 #todo #biblereading
+- [ ] [[Proverbs 27]] 🔁 every year 📅 2024-06-18 #todo #biblereading
+- [ ] [[Proverbs 28]] 🔁 every year 📅 2024-06-18 #todo #biblereading 
+- [ ] [[Proverbs 29]] 🔁 every year 📅 2024-06-18 #todo #biblereading
+- [ ] [[Ecclesiastes 1]] 🔁 every year 📅 2024-06-19 #todo #biblereading
+- [ ] [[Ecclesiastes 2]] 🔁 every year 📅 2024-06-19 #todo #biblereading
+- [ ] [[Ecclesiastes 3]] 🔁 every year 📅 2024-06-19 #todo #biblereading
+- [ ] [[Ecclesiastes 4]] 🔁 every year 📅 2024-06-19 #todo #biblereading
+- [ ] [[Ecclesiastes 5]] 🔁 every year 📅 2024-06-19 #todo #biblereading
+- [ ] [[Ecclesiastes 6]] 🔁 every year 📅 2024-06-19 #todo #biblereading
+- [ ] [[Ecclesiastes 7]] 🔁 every year 📅 2024-06-20 #todo #biblereading
+- [ ] [[Ecclesiastes 8]] 🔁 every year 📅 2024-06-20 #todo #biblereading
+- [ ] [[Ecclesiastes 9]] 🔁 every year 📅 2024-06-20 #todo #biblereading
+- [ ] [[Ecclesiastes 10]] 🔁 every year 📅 2024-06-20 #todo #biblereading
+- [ ] [[Ecclesiastes 11]] 🔁 every year 📅 2024-06-20 #todo #biblereading
+- [ ] [[Ecclesiastes 12]] 🔁 every year 📅 2024-06-20 #todo #biblereading
+- [ ] [[1 Kings 10]] 🔁 every year 📅 2024-06-21 #todo #biblereading
+- [ ] [[1 Kings 11]] 🔁 every year 📅 2024-06-21 #todo #biblereading
+- [ ] [[2 Chronicles 9]] 🔁 every year 📅 2024-06-21 #todo #biblereading
+- [ ] [[Proverbs 30]] 🔁 every year 📅 2024-06-22 #todo #biblereading
+- [ ] [[Proverbs 31]] 🔁 every year 📅 2024-06-22 #todo #biblereading
+- [ ] [[1 Kings 12]] 🔁 every year 📅 2024-06-23 #todo #biblereading
+- [ ] [[1 Kings 13]] 🔁 every year 📅 2024-06-23 #todo #biblereading
+- [ ] [[1 Kings 14]] 🔁 every year 📅 2024-06-23 #todo #biblereading
+- [ ] [[2 Chronicles 10]] 🔁 every year 📅 2024-06-24 #todo #biblereading
+- [ ] [[2 Chronicles 11]] 🔁 every year 📅 2024-06-24 #todo #biblereading
+- [ ] [[2 Chronicles 12]] 🔁 every year 📅 2024-06-24 #todo #biblereading
+- [ ] [[1 Kings 15|1 Kings 15:1-24]] 🔁 every year 📅 2024-06-25 #todo #biblereading
+- [ ] [[2 Chronicles 13]] 🔁 every year 📅 2024-06-25 #todo #biblereading
+- [ ] [[2 Chronicles 14]] 🔁 every year 📅 2024-06-25 #todo #biblereading
+- [ ] [[2 Chronicles 15]] 🔁 every year 📅 2024-06-25 #todo #biblereading
+- [ ] [[2 Chronicles 16]] 🔁 every year 📅 2024-06-25 #todo #biblereading
+- [ ] [[1 Kings 15|1 Kings 15:25-34]] 🔁 every year 📅 2024-06-26 #todo #biblereading
+- [ ] [[1 Kings 16]] 🔁 every year 📅 2024-06-26 #todo #biblereading
+- [ ] [[2 Chronicles 17]] 🔁 every year 📅 2024-06-26 #todo #biblereading
+- [ ] [[1 Kings 17]] 🔁 every year 📅 2024-06-27 #todo #biblereading
+- [ ] [[1 Kings 18]] 🔁 every year 📅 2024-06-27 #todo #biblereading
+- [ ] [[1 Kings 19]] 🔁 every year 📅 2024-06-27 #todo #biblereading
+- [ ] [[1 Kings 20]] 🔁 every year 📅 2024-06-28 #todo #biblereading
+- [ ] [[1 Kings 21]] 🔁 every year 📅 2024-06-28 #todo #biblereading
+- [ ] [[1 Kings 22]] 🔁 every year 📅 2024-06-29 #todo #biblereading
+- [ ] [[2 Chronicles 18]] 🔁 every year 📅 2024-06-29 #todo #biblereading
+- [ ] [[2 Chronicles 19]] 🔁 every year 📅 2024-06-30 #todo #biblereading
+- [ ] [[2 Chronicles 20]] 🔁 every year 📅 2024-06-30 #todo #biblereading
+- [ ] [[2 Chronicles 21]] 🔁 every year 📅 2024-06-30 #todo #biblereading
+- [ ] [[2 Chronicles 22]] 🔁 every year 📅 2024-06-30 #todo #biblereading
+- [ ] [[2 Chronicles 23]] 🔁 every year 📅 2024-06-30 #todo #biblereading
+- [ ] [[Obadiah 1]] 🔁 every year 📅 2024-07-01 #todo #biblereading
+- [ ] [[Psalms 82]] 🔁 every year 📅 2024-07-01 #todo #biblereading
+- [ ] [[Psalms 83]] 🔁 every year 📅 2024-07-01 #todo #biblereading
+- [ ] [[2 Kings 1]] 🔁 every year 📅 2024-07-02 #todo #biblereading
+- [ ] [[2 Kings 2]] 🔁 every year 📅 2024-07-02 #todo #biblereading
+- [ ] [[2 Kings 3]] 🔁 every year 📅 2024-07-02 #todo #biblereading
+- [ ] [[2 Kings 4]] 🔁 every year 📅 2024-07-02 #todo #biblereading
+- [ ] [[2 Kings 5]] 🔁 every year 📅 2024-07-03 #todo #biblereading
+- [ ] [[2 Kings 6]] 🔁 every year 📅 2024-07-03 #todo #biblereading
+- [ ] [[2 Kings 7]] 🔁 every year 📅 2024-07-03 #todo #biblereading
+- [ ] [[2 Kings 8]] 🔁 every year 📅 2024-07-03 #todo #biblereading
+- [ ] [[2 Kings 9]] 🔁 every year 📅 2024-07-04 #todo #biblereading
+- [ ] [[2 Kings 10]] 🔁 every year 📅 2024-07-04 #todo #biblereading
+- [ ] [[2 Kings 11]] 🔁 every year 📅 2024-07-04 #todo #biblereading
+- [ ] [[2 Kings 12]] 🔁 every year 📅 2024-07-05 #todo #biblereading
+- [ ] [[2 Kings 13]] 🔁 every year 📅 2024-07-05 #todo #biblereading
+- [ ] [[2 Chronicles 24]] 🔁 every year 📅 2024-07-05 #todo #biblereading
+- [ ] [[2 Kings 14]] 🔁 every year 📅 2024-07-06 #todo #biblereading
+- [ ] [[2 Chronicles 25]] 🔁 every year 📅 2024-07-06 #todo #biblereading
+- [ ] [[Jonah 1]] 🔁 every year 📅 2024-07-07 #todo #biblereading
+- [ ] [[Jonah 2]] 🔁 every year 📅 2024-07-07 #todo #biblereading
+- [ ] [[Jonah 3]] 🔁 every year 📅 2024-07-07 #todo #biblereading
+- [ ] [[Jonah 4]] 🔁 every year 📅 2024-07-07 #todo #biblereading
+- [ ] [[2 Kings 15]] 🔁 every year 📅 2024-07-08 #todo #biblereading
+- [ ] [[2 Chronicles 26]] 🔁 every year 📅 2024-07-08 #todo #biblereading
+- [ ] [[Isaiah 1]] 🔁 every year 📅 2024-07-09 #todo #biblereading
+- [ ] [[Isaiah 2]] 🔁 every year 📅 2024-07-09 #todo #biblereading
+- [ ] [[Isaiah 3]] 🔁 every year 📅 2024-07-09 #todo #biblereading
+- [ ] [[Isaiah 4]] 🔁 every year 📅 2024-07-09 #todo #biblereading
+- [ ] [[Isaiah 5]] 🔁 every year 📅 2024-07-10 #todo #biblereading
+- [ ] [[Isaiah 6]] 🔁 every year 📅 2024-07-10 #todo #biblereading
+- [ ] [[Isaiah 7]] 🔁 every year 📅 2024-07-10 #todo #biblereading
+- [ ] [[Isaiah 8]] 🔁 every year 📅 2024-07-10 #todo #biblereading
+- [ ] [[Amos 1]] 🔁 every year 📅 2024-07-11 #todo #biblereading
+- [ ] [[Amos 2]] 🔁 every year 📅 2024-07-11 #todo #biblereading
+- [ ] [[Amos 3]] 🔁 every year 📅 2024-07-11 #todo #biblereading
+- [ ] [[Amos 4]] 🔁 every year 📅 2024-07-11 #todo #biblereading
+- [ ] [[Amos 5]] 🔁 every year 📅 2024-07-11 #todo #biblereading
+- [ ] [[Amos 6]] 🔁 every year 📅 2024-07-12 #todo #biblereading
+- [ ] [[Amos 7]] 🔁 every year 📅 2024-07-12 #todo #biblereading
+- [ ] [[Amos 8]] 🔁 every year 📅 2024-07-12 #todo #biblereading
+- [ ] [[Amos 9]] 🔁 every year 📅 2024-07-12 #todo #biblereading
+- [ ] [[2 Chronicles 27]] 🔁 every year 📅 2024-07-13 #todo #biblereading
+- [ ] [[Isaiah 9]] 🔁 every year 📅 2024-07-13 #todo #biblereading
+- [ ] [[Isaiah 10]] 🔁 every year 📅 2024-07-13 #todo #biblereading
+- [ ] [[Isaiah 11]] 🔁 every year 📅 2024-07-13 #todo #biblereading
+- [ ] [[Micah 1]] 🔁 every year 📅 2024-07-14 #todo #biblereading
+- [ ] [[Micah 2]] 🔁 every year 📅 2024-07-14 #todo #biblereading
+- [ ] [[Micah 3]] 🔁 every year 📅 2024-07-14 #todo #biblereading
+- [ ] [[Micah 4]] 🔁 every year 📅 2024-07-14 #todo #biblereading
+- [ ] [[Micah 5]] 🔁 every year 📅 2024-07-14 #todo #biblereading
+- [ ] [[Micah 6]] 🔁 every year 📅 2024-07-14 #todo #biblereading
+- [ ] [[Micah 7]] 🔁 every year 📅 2024-07-14 #todo #biblereading
+- [ ] [[2 Chronicles 28]] 🔁 every year 📅 2024-07-15 #todo #biblereading
+- [ ] [[2 Kings 16]] 🔁 every year 📅 2024-07-15 #todo #biblereading
+- [ ] [[2 Kings 17]] 🔁 every year 📅 2024-07-15 #todo #biblereading
+- [ ] [[Isaiah 13]] 🔁 every year 📅 2024-07-16 #todo #biblereading
+- [ ] [[Isaiah 14]] 🔁 every year 📅 2024-07-16 #todo #biblereading
+- [ ] [[Isaiah 15]] 🔁 every year 📅 2024-07-16 #todo #biblereading
+- [ ] [[Isaiah 16]] 🔁 every year 📅 2024-07-16 #todo #biblereading
+- [ ] [[Isaiah 17]] 🔁 every year 📅 2024-07-16 #todo #biblereading
+- [ ] [[Isaiah 18]] 🔁 every year 📅 2024-07-17 #todo #biblereading
+- [ ] [[Isaiah 19]] 🔁 every year 📅 2024-07-17 #todo #biblereading
+- [ ] [[Isaiah 20]] 🔁 every year 📅 2024-07-17 #todo #biblereading
+- [ ] [[Isaiah 21]] 🔁 every year 📅 2024-07-17 #todo #biblereading
+- [ ] [[Isaiah 22]] 🔁 every year 📅 2024-07-17 #todo #biblereading
+- [ ] [[Isaiah 23]] 🔁 every year 📅 2024-07-18 #todo #biblereading
+- [ ] [[Isaiah 24]] 🔁 every year 📅 2024-07-18 #todo #biblereading
+- [ ] [[Isaiah 25]] 🔁 every year 📅 2024-07-18 #todo #biblereading
+- [ ] [[Isaiah 26]] 🔁 every year 📅 2024-07-18 #todo #biblereading
+- [ ] [[Isaiah 27]] 🔁 every year 📅 2024-07-18 #todo #biblereading
+- [ ] [[2 Kings 18|2 Kings 18:1-8]] 🔁 every year 📅 2024-07-19 #todo #biblereading
+- [ ] [[2 Chronicles 29]] 🔁 every year 📅 2024-07-19 #todo #biblereading
+- [ ] [[2 Chronicles 30]] 🔁 every year 📅 2024-07-19 #todo #biblereading
+- [ ] [[2 Chronicles 31]] 🔁 every year 📅 2024-07-19 #todo #biblereading
+- [ ] [[Psalms 48]] 🔁 every year 📅 2024-07-19 #todo #biblereading
+- [ ] [[Hosea 1]] 🔁 every year 📅 2024-07-20 #todo #biblereading
+- [ ] [[Hosea 2]] 🔁 every year 📅 2024-07-20 #todo #biblereading
+- [ ] [[Hosea 3]] 🔁 every year 📅 2024-07-20 #todo #biblereading
+- [ ] [[Hosea 4]] 🔁 every year 📅 2024-07-20 #todo #biblereading
+- [ ] [[Hosea 5]] 🔁 every year 📅 2024-07-20 #todo #biblereading
+- [ ] [[Hosea 6]] 🔁 every year 📅 2024-07-20 #todo #biblereading
+- [ ] [[Hosea 7]] 🔁 every year 📅 2024-07-20 #todo #biblereading
+- [ ] [[Hosea 8]] 🔁 every year 📅 2024-07-21 #todo #biblereading
+- [ ] [[Hosea 9]] 🔁 every year 📅 2024-07-21 #todo #biblereading
+- [ ] [[Hosea 10]] 🔁 every year 📅 2024-07-21 #todo #biblereading
+- [ ] [[Hosea 11]] 🔁 every year 📅 2024-07-21 #todo #biblereading
+- [ ] [[Hosea 12]] 🔁 every year 📅 2024-07-21 #todo #biblereading
+- [ ] [[Hosea 13]] 🔁 every year 📅 2024-07-21 #todo #biblereading
+- [ ] [[Isaiah 28]] 🔁 every year 📅 2024-07-22 #todo #biblereading
+- [ ] [[Isaiah 29]] 🔁 every year 📅 2024-07-22 #todo #biblereading
+- [ ] [[Isaiah 30]] 🔁 every year 📅 2024-07-22 #todo #biblereading
+- [ ] [[Isaiah 31]] 🔁 every year 📅 2024-07-23 #todo #biblereading
+- [ ] [[Isaiah 32]] 🔁 every year 📅 2024-07-23 #todo #biblereading
+- [ ] [[Isaiah 33]] 🔁 every year 📅 2024-07-23 #todo #biblereading
+- [ ] [[Isaiah 34]] 🔁 every year 📅 2024-07-23 #todo #biblereading
+- [ ] [[Isaiah 35]] 🔁 every year 📅 2024-07-24 #todo #biblereading
+- [ ] [[Isaiah 36]] 🔁 every year 📅 2024-07-24 #todo #biblereading
+- [ ] [[Isaiah 37]] 🔁 every year 📅 2024-07-25 #todo #biblereading
+- [ ] [[Isaiah 38]] 🔁 every year 📅 2024-07-25 #todo #biblereading
+- [ ] [[Isaiah 39]] 🔁 every year 📅 2024-07-25 #todo #biblereading
+- [ ] [[Psalms 76]] 🔁 every year 📅 2024-07-25 #todo #biblereading
+- [ ] [[Isaiah 40]] 🔁 every year 📅 2024-07-26 #todo #biblereading
+- [ ] [[Isaiah 41]] 🔁 every year 📅 2024-07-26 #todo #biblereading
+- [ ] [[Isaiah 42]] 🔁 every year 📅 2024-07-26 #todo #biblereading
+- [ ] [[Isaiah 43]] 🔁 every year 📅 2024-07-26 #todo #biblereading
+- [ ] [[Isaiah 44]] 🔁 every year 📅 2024-07-27 #todo #biblereading
+- [ ] [[Isaiah 45]] 🔁 every year 📅 2024-07-27 #todo #biblereading
+- [ ] [[Isaiah 46]] 🔁 every year 📅 2024-07-27 #todo #biblereading
+- [ ] [[Isaiah 47]] 🔁 every year 📅 2024-07-27 #todo #biblereading
+- [ ] [[Isaiah 48]] 🔁 every year 📅 2024-07-27 #todo #biblereading
+- [ ] [[2 Kings 18|2 Kings 18:9-37]] 🔁 every year 📅 2024-07-28 #todo #biblereading
+- [ ] [[2 Kings 19]] 🔁 every year 📅 2024-07-28 #todo #biblereading
+- [ ] [[Psalms 80]] 🔁 every year 📅 2024-07-28 #todo #biblereading
+- [ ] [[Psalms 135]] 🔁 every year 📅 2024-07-28 #todo #biblereading
+- [ ] [[Isaiah 49]] 🔁 every year 📅 2024-07-29 #todo #biblereading
+- [ ] [[Isaiah 50]] 🔁 every year 📅 2024-07-29 #todo #biblereading
+- [ ] [[Isaiah 51]] 🔁 every year 📅 2024-07-29 #todo #biblereading
+- [ ] [[Isaiah 52]] 🔁 every year 📅 2024-07-29 #todo #biblereading
+- [ ] [[Isaiah 53]] 🔁 every year 📅 2024-07-29 #todo #biblereading
+- [ ] [[Isaiah 54]] 🔁 every year 📅 2024-07-30 #todo #biblereading
+- [ ] [[Isaiah 55]] 🔁 every year 📅 2024-07-30 #todo #biblereading
+- [ ] [[Isaiah 56]] 🔁 every year 📅 2024-07-30 #todo #biblereading
+- [ ] [[Isaiah 57]] 🔁 every year 📅 2024-07-30 #todo #biblereading
+- [ ] [[Isaiah 58]] 🔁 every year 📅 2024-07-30 #todo #biblereading
+- [ ] [[Isaiah 59]] 🔁 every year 📅 2024-07-31 #todo #biblereading
+- [ ] [[Isaiah 60]] 🔁 every year 📅 2024-07-31 #todo #biblereading
+- [ ] [[Isaiah 61]] 🔁 every year 📅 2024-07-31 #todo #biblereading
+- [ ] [[Isaiah 62]] 🔁 every year 📅 2024-07-31 #todo #biblereading
+- [ ] [[Isaiah 63]] 🔁 every year 📅 2024-07-31 #todo #biblereading
+- [ ] [[Isaiah 64]] 🔁 every year 📅 2024-08-01 #todo #biblereading
+- [ ] [[Isaiah 65]] 🔁 every year 📅 2024-08-01 #todo #biblereading
+- [ ] [[Isaiah 66]] 🔁 every year 📅 2024-08-01 #todo #biblereading
+- [ ] [[Isaiah 66]] 🔁 every year 📅 2024-08-01 #todo #biblereading
+- [ ] [[2 Kings 20]] 🔁 every year 📅 2024-08-02 #todo #biblereading
+- [ ] [[2 Kings 21]] 🔁 every year 📅 2024-08-02 #todo #biblereading
+- [ ] [[2 Chronicles 32]] 🔁 every year 📅 2024-08-03 #todo #biblereading
+- [ ] [[2 Chronicles 33]] 🔁 every year 📅 2024-08-03 #todo #biblereading
+- [ ] [[Nahum 1]] 🔁 every year 📅 2024-08-04 #todo #biblereading
+- [ ] [[Nahum 2]] 🔁 every year 📅 2024-08-04 #todo #biblereading
+- [ ] [[Nahum 3]] 🔁 every year 📅 2024-08-04 #todo #biblereading
+- [ ] [[2 Kings 22]] 🔁 every year 📅 2024-08-05 #todo #biblereading
+- [ ] [[2 Kings 23]] 🔁 every year 📅 2024-08-05 #todo #biblereading
+- [ ] [[2 Chronicles 34]] 🔁 every year 📅 2024-08-05 #todo #biblereading 
+- [ ] [[2 Chronicles 35]] 🔁 every year 📅 2024-08-05 #todo #biblereading
+- [ ] [[Zephaniah 1]] 🔁 every year 📅 2024-08-06 #todo #biblereading
+- [ ] [[Zephaniah 2]] 🔁 every year 📅 2024-08-06 #todo #biblereading
+- [ ] [[Zephaniah 3]] 🔁 every year 📅 2024-08-06 #todo #biblereading
+- [ ] [[Jeremiah 1]] 🔁 every year 📅 2024-08-07 #todo #biblereading
+- [ ] [[Jeremiah 2]] 🔁 every year 📅 2024-08-07 #todo #biblereading
+- [ ] [[Jeremiah 3]] 🔁 every year 📅 2024-08-07 #todo #biblereading
+- [ ] [[Jeremiah 4]] 🔁 every year 📅 2024-08-08 #todo #biblereading
+- [ ] [[Jeremiah 5]] 🔁 every year 📅 2024-08-08 #todo #biblereading
+- [ ] [[Jeremiah 6]] 🔁 every year 📅 2024-08-08 #todo #biblereading
+- [ ] [[Jeremiah 7]] 🔁 every year 📅 2024-08-09 #todo #biblereading
+- [ ] [[Jeremiah 8]] 🔁 every year 📅 2024-08-09 #todo #biblereading
+- [ ] [[Jeremiah 9]] 🔁 every year 📅 2024-08-09 #todo #biblereading
+- [ ] [[Jeremiah 10]] 🔁 every year 📅 2024-08-10 #todo #biblereading
+- [ ] [[Jeremiah 11]] 🔁 every year 📅 2024-08-10 #todo #biblereading
+- [ ] [[Jeremiah 12]] 🔁 every year 📅 2024-08-10 #todo #biblereading
+- [ ] [[Jeremiah 13]] 🔁 every year 📅 2024-08-10 #todo #biblereading
+- [ ] [[Jeremiah 14]] 🔁 every year 📅 2024-08-11 #todo #biblereading
+- [ ] [[Jeremiah 15]] 🔁 every year 📅 2024-08-11 #todo #biblereading
+- [ ] [[Jeremiah 16]] 🔁 every year 📅 2024-08-11 #todo #biblereading
+- [ ] [[Jeremiah 17]] 🔁 every year 📅 2024-08-11 #todo #biblereading
+- [ ] [[Jeremiah 18]] 🔁 every year 📅 2024-08-12 #todo #biblereading
+- [ ] [[Jeremiah 19]] 🔁 every year 📅 2024-08-12 #todo #biblereading
+- [ ] [[Jeremiah 20]] 🔁 every year 📅 2024-08-12 #todo #biblereading
+- [ ] [[Jeremiah 21]] 🔁 every year 📅 2024-08-12 #todo #biblereading
+- [ ] [[Jeremiah 22]] 🔁 every year 📅 2024-08-12 #todo #biblereading
+- [ ] [[Jeremiah 23]] 🔁 every year 📅 2024-08-13 #todo #biblereading
+- [ ] [[Jeremiah 24]] 🔁 every year 📅 2024-08-13 #todo #biblereading
+- [ ] [[Jeremiah 25]] 🔁 every year 📅 2024-08-13 #todo #biblereading
+- [ ] [[Jeremiah 26]] 🔁 every year 📅 2024-08-14 #todo #biblereading
+- [ ] [[Jeremiah 27]] 🔁 every year 📅 2024-08-14 #todo #biblereading
+- [ ] [[Jeremiah 28]] 🔁 every year 📅 2024-08-14 #todo #biblereading
+- [ ] [[Jeremiah 29]] 🔁 every year 📅 2024-08-14 #todo #biblereading
+- [ ] [[Jeremiah 30]] 🔁 every year 📅 2024-08-15 #todo #biblereading
+- [ ] [[Jeremiah 31]] 🔁 every year 📅 2024-08-15 #todo #biblereading
+- [ ] [[Jeremiah 32]] 🔁 every year 📅 2024-08-16 #todo #biblereading
+- [ ] [[Jeremiah 33]] 🔁 every year 📅 2024-08-16 #todo #biblereading
+- [ ] [[Jeremiah 34]] 🔁 every year 📅 2024-08-16 #todo #biblereading
+- [ ] [[Jeremiah 35]] 🔁 every year 📅 2024-08-17 #todo #biblereading
+- [ ] [[Jeremiah 36]] 🔁 every year 📅 2024-08-17 #todo #biblereading
+- [ ] [[Jeremiah 37]] 🔁 every year 📅 2024-08-17 #todo #biblereading
+- [ ] [[Jeremiah 38]] 🔁 every year 📅 2024-08-18 #todo #biblereading
+- [ ] [[Jeremiah 39]] 🔁 every year 📅 2024-08-18 #todo #biblereading
+- [ ] [[Jeremiah 40]] 🔁 every year 📅 2024-08-18 #todo #biblereading
+- [ ] [[Psalms 74]] 🔁 every year 📅 2024-08-18 #todo #biblereading
+- [ ] [[Psalms 79]] 🔁 every year 📅 2024-08-18 #todo #biblereading
+- [ ] [[2 Kings 24]] 🔁 every year 📅 2024-08-19 #todo #biblereading
+- [ ] [[2 Kings 25]] 🔁 every year 📅 2024-08-19 #todo #biblereading
+- [ ] [[2 Chronicles 36]] 🔁 every year 📅 2024-08-19 #todo #biblereading
+- [ ] [[Habakkuk 1]] 🔁 every year 📅 2024-08-20 #todo #biblereading
+- [ ] [[Habakkuk 2]] 🔁 every year 📅 2024-08-20 #todo #biblereading
+- [ ] [[Habakkuk 3]] 🔁 every year 📅 2024-08-20 #todo #biblereading
+- [ ] [[Jeremiah 41]] 🔁 every year 📅 2024-08-21 #todo #biblereading
+- [ ] [[Jeremiah 42]] 🔁 every year 📅 2024-08-21 #todo #biblereading
+- [ ] [[Jeremiah 43]] 🔁 every year 📅 2024-08-21 #todo #biblereading
+- [ ] [[Jeremiah 44]] 🔁 every year 📅 2024-08-21 #todo #biblereading
+- [ ] [[Jeremiah 45]] 🔁 every year 📅 2024-08-21 #todo #biblereading
+- [ ] [[Jeremiah 46]] 🔁 every year 📅 2024-08-22 #todo #biblereading
+- [ ] [[Jeremiah 47]] 🔁 every year 📅 2024-08-22 #todo #biblereading
+- [ ] [[Jeremiah 48]] 🔁 every year 📅 2024-08-22 #todo #biblereading
+- [ ] [[Jeremiah 49]] 🔁 every year 📅 2024-08-23 #todo #biblereading
+- [ ] [[Jeremiah 50]] 🔁 every year 📅 2024-08-23 #todo #biblereading
+- [ ] [[Jeremiah 51]] 🔁 every year 📅 2024-08-24 #todo #biblereading
+- [ ] [[Jeremiah 52]] 🔁 every year 📅 2024-08-24 #todo #biblereading
+- [ ] [[Lamentations 1]] 🔁 every year 📅 2024-08-25 #todo #biblereading
+- [ ] [[Lamentations 2]] 🔁 every year 📅 2024-08-25 #todo #biblereading
+- [ ] [[Lamentations 3|Lamentations 3:1-36]] 🔁 every year 📅 2024-08-25 #todo #biblereading
+- [ ] [[Lamentations 3|Lamentations 3:37-68]] 🔁 every year 📅 2024-08-26 #todo #biblereading
+- [ ] [[Lamentations 4]] 🔁 every year 📅 2024-08-26 #todo #biblereading
+- [ ] [[Lamentations 5]] 🔁 every year 📅 2024-08-26 #todo #biblereading
+- [ ] [[Ezekiel 1]] 🔁 every year 📅 2024-08-27 #todo #biblereading
+- [ ] [[Ezekiel 2]] 🔁 every year 📅 2024-08-27 #todo #biblereading
+- [ ] [[Ezekiel 3]] 🔁 every year 📅 2024-08-27 #todo #biblereading
+- [ ] [[Ezekiel 4]] 🔁 every year 📅 2024-08-27 #todo #biblereading
+- [ ] [[Ezekiel 5]] 🔁 every year 📅 2024-08-28 #todo #biblereading
+- [ ] [[Ezekiel 6]] 🔁 every year 📅 2024-08-28 #todo #biblereading
+- [ ] [[Ezekiel 7]] 🔁 every year 📅 2024-08-28 #todo #biblereading
+- [ ] [[Ezekiel 8]] 🔁 every year 📅 2024-08-28 #todo #biblereading
+- [ ] [[Ezekiel 9]] 🔁 every year 📅 2024-08-29 #todo #biblereading
+- [ ] [[Ezekiel 10]] 🔁 every year 📅 2024-08-29 #todo #biblereading
+- [ ] [[Ezekiel 11]] 🔁 every year 📅 2024-08-29 #todo #biblereading
+- [ ] [[Ezekiel 12]] 🔁 every year 📅 2024-08-29 #todo #biblereading
+- [ ] [[Ezekiel 13]] 🔁 every year 📅 2024-08-30 #todo #biblereading
+- [ ] [[Ezekiel 14]] 🔁 every year 📅 2024-08-30 #todo #biblereading
+- [ ] [[Ezekiel 15]] 🔁 every year 📅 2024-08-30 #todo #biblereading
+- [ ] [[Ezekiel 16]] 🔁 every year 📅 2024-08-31 #todo #biblereading
+- [ ] [[Ezekiel 17]] 🔁 every year 📅 2024-08-31 #todo #biblereading
+- [ ] [[Ezekiel 18]] 🔁 every year 📅 2024-09-01 #todo #biblereading
+- [ ] [[Ezekiel 19]] 🔁 every year 📅 2024-09-01 #todo #biblereading
+- [ ] [[Ezekiel 20]] 🔁 every year 📅 2024-09-02 #todo #biblereading
+- [ ] [[Ezekiel 21]] 🔁 every year 📅 2024-09-02 #todo #biblereading
+- [ ] [[Ezekiel 22]] 🔁 every year 📅 2024-09-03 #todo #biblereading
+- [ ] [[Ezekiel 23]] 🔁 every year 📅 2024-09-03 #todo #biblereading
+- [ ] [[Ezekiel 24]] 🔁 every year 📅 2024-09-04 #todo #biblereading
+- [ ] [[Ezekiel 25]] 🔁 every year 📅 2024-09-04 #todo #biblereading
+- [ ] [[Ezekiel 26]] 🔁 every year 📅 2024-09-04 #todo #biblereading
+- [ ] [[Ezekiel 27]] 🔁 every year 📅 2024-09-04 #todo #biblereading
+- [ ] [[Ezekiel 28]] 🔁 every year 📅 2024-09-05 #todo #biblereading
+- [ ] [[Ezekiel 29]] 🔁 every year 📅 2024-09-05 #todo #biblereading 
+- [ ] [[Ezekiel 30]] 🔁 every year 📅 2024-09-05 #todo #biblereading
+- [ ] [[Ezekiel 31]] 🔁 every year 📅 2024-09-05 #todo #biblereading
+- [ ] [[Ezekiel 32]] 🔁 every year 📅 2024-09-06 #todo #biblereading
+- [ ] [[Ezekiel 33]] 🔁 every year 📅 2024-09-06 #todo #biblereading
+- [ ] [[Ezekiel 34]] 🔁 every year 📅 2024-09-06 #todo #biblereading
+- [ ] [[Ezekiel 35]] 🔁 every year 📅 2024-09-07 #todo #biblereading
+- [ ] [[Ezekiel 36]] 🔁 every year 📅 2024-09-07 #todo #biblereading
+- [ ] [[Ezekiel 37]] 🔁 every year 📅 2024-09-07 #todo #biblereading
+- [ ] [[Ezekiel 38]] 🔁 every year 📅 2024-09-08 #todo #biblereading
+- [ ] [[Ezekiel 39]] 🔁 every year 📅 2024-09-08 #todo #biblereading
+- [ ] [[Ezekiel 40]] 🔁 every year 📅 2024-09-09 #todo #biblereading
+- [ ] [[Ezekiel 41]] 🔁 every year 📅 2024-09-09 #todo #biblereading
+- [ ] [[Ezekiel 42]] 🔁 every year 📅 2024-09-10 #todo #biblereading
+- [ ] [[Ezekiel 43]] 🔁 every year 📅 2024-09-10 #todo #biblereading
+- [ ] [[Ezekiel 44]] 🔁 every year 📅 2024-09-11 #todo #biblereading
+- [ ] [[Ezekiel 45]] 🔁 every year 📅 2024-09-11 #todo #biblereading
+- [ ] [[Ezekiel 46]] 🔁 every year 📅 2024-09-12 #todo #biblereading
+- [ ] [[Ezekiel 47]] 🔁 every year 📅 2024-09-12 #todo #biblereading
+- [ ] [[Ezekiel 48]] 🔁 every year 📅 2024-09-12 #todo #biblereading
+- [ ] [[Joel 1]] 🔁 every year 📅 2024-09-13 #todo #biblereading
+- [ ] [[Joel 2]] 🔁 every year 📅 2024-09-13 #todo #biblereading
+- [ ] [[Joel 3]] 🔁 every year 📅 2024-09-13 #todo #biblereading
+- [ ] [[Daniel 1]] 🔁 every year 📅 2024-09-14 #todo #biblereading
+- [ ] [[Daniel 2]] 🔁 every year 📅 2024-09-14 #todo #biblereading
+- [ ] [[Daniel 3]] 🔁 every year 📅 2024-09-14 #todo #biblereading
+- [ ] [[Daniel 4]] 🔁 every year 📅 2024-09-15 #todo #biblereading
+- [ ] [[Daniel 5]] 🔁 every year 📅 2024-09-15 #todo #biblereading
+- [ ] [[Daniel 6]] 🔁 every year 📅 2024-09-15 #todo #biblereading
+- [ ] [[Daniel 7]] 🔁 every year 📅 2024-09-16 #todo #biblereading
+- [ ] [[Daniel 8]] 🔁 every year 📅 2024-09-16 #todo #biblereading
+- [ ] [[Daniel 9]] 🔁 every year 📅 2024-09-16 #todo #biblereading
+- [ ] [[Daniel 10]] 🔁 every year 📅 2024-09-17 #todo #biblereading
+- [ ] [[Daniel 11]] 🔁 every year 📅 2024-09-17 #todo #biblereading
+- [ ] [[Daniel 12]] 🔁 every year 📅 2024-09-17 #todo #biblereading
+- [ ] [[Ezra 1]] 🔁 every year 📅 2024-09-18 #todo #biblereading
+- [ ] [[Ezra 2]] 🔁 every year 📅 2024-09-18 #todo #biblereading
+- [ ] [[Ezra 3]] 🔁 every year 📅 2024-09-18 #todo #biblereading
+- [ ] [[Ezra 4]] 🔁 every year 📅 2024-09-19 #todo #biblereading
+- [ ] [[Ezra 5]] 🔁 every year 📅 2024-09-19 #todo #biblereading
+- [ ] [[Ezra 6]] 🔁 every year 📅 2024-09-19 #todo #biblereading
+- [ ] [[Psalms 137]] 🔁 every year 📅 2024-09-19 #todo #biblereading
+- [ ] [[Haggai 1]] 🔁 every year 📅 2024-09-20 #todo #biblereading
+- [ ] [[Haggai 2]] 🔁 every year 📅 2024-09-20 #todo #biblereading
+- [ ] [[Zechariah 1]] 🔁 every year 📅 2024-09-21 #todo #biblereading 
+- [ ] [[Zechariah 2]] 🔁 every year 📅 2024-09-21 #todo #biblereading
+- [ ] [[Zechariah 3]] 🔁 every year 📅 2024-09-21 #todo #biblereading
+- [ ] [[Zechariah 4]] 🔁 every year 📅 2024-09-21 #todo #biblereading
+- [ ] [[Zechariah 5]] 🔁 every year 📅 2024-09-21 #todo #biblereading
+- [ ] [[Zechariah 6]] 🔁 every year 📅 2024-09-21 #todo #biblereading
+- [ ] [[Zechariah 7]] 🔁 every year 📅 2024-09-21 #todo #biblereading
+- [ ] [[Zechariah 8]] 🔁 every year 📅 2024-09-22 #todo #biblereading
+- [ ] [[Zechariah 9]] 🔁 every year 📅 2024-09-22 #todo #biblereading
+- [ ] [[Zechariah 10]] 🔁 every year 📅 2024-09-22 #todo #biblereading
+- [ ] [[Zechariah 11]] 🔁 every year 📅 2024-09-22 #todo #biblereading
+- [ ] [[Zechariah 12]] 🔁 every year 📅 2024-09-22 #todo #biblereading
+- [ ] [[Zechariah 13]] 🔁 every year 📅 2024-09-22 #todo #biblereading
+- [ ] [[Zechariah 14]] 🔁 every year 📅 2024-09-22 #todo #biblereading
+- [ ] [[Esther 1]] 🔁 every year 📅 2024-09-23 #todo #biblereading
+- [ ] [[Esther 2]] 🔁 every year 📅 2024-09-23 #todo #biblereading
+- [ ] [[Esther 3]] 🔁 every year 📅 2024-09-23 #todo #biblereading
+- [ ] [[Esther 4]] 🔁 every year 📅 2024-09-23 #todo #biblereading
+- [ ] [[Esther 5]] 🔁 every year 📅 2024-09-23 #todo #biblereading
+- [ ] [[Esther 6]] 🔁 every year 📅 2024-09-24 #todo #biblereading
+- [ ] [[Esther 7]] 🔁 every year 📅 2024-09-24 #todo #biblereading
+- [ ] [[Esther 8]] 🔁 every year 📅 2024-09-24 #todo #biblereading
+- [ ] [[Esther 9]] 🔁 every year 📅 2024-09-24 #todo #biblereading
+- [ ] [[Esther 10]] 🔁 every year 📅 2024-09-24 #todo #biblereading
+- [ ] [[Ezra 7]] 🔁 every year 📅 2024-09-25 #todo #biblereading
+- [ ] [[Ezra 8]] 🔁 every year 📅 2024-09-25 #todo #biblereading
+- [ ] [[Ezra 9]] 🔁 every year 📅 2024-09-25 #todo #biblereading
+- [ ] [[Ezra 10]] 🔁 every year 📅 2024-09-25 #todo #biblereading
+- [ ] [[Nehemiah 1]] 🔁 every year 📅 2024-09-26 #todo #biblereading
+- [ ] [[Nehemiah 2]] 🔁 every year 📅 2024-09-26 #todo #biblereading
+- [ ] [[Nehemiah 3]] 🔁 every year 📅 2024-09-26 #todo #biblereading
+- [ ] [[Nehemiah 4]] 🔁 every year 📅 2024-09-26 #todo #biblereading
+- [ ] [[Nehemiah 5]] 🔁 every year 📅 2024-09-26 #todo #biblereading
+- [ ] [[Nehemiah 6]] 🔁 every year 📅 2024-09-27 #todo #biblereading
+- [ ] [[Nehemiah 7]] 🔁 every year 📅 2024-09-27 #todo #biblereading
+- [ ] [[Nehemiah 8]] 🔁 every year 📅 2024-09-28 #todo #biblereading
+- [ ] [[Nehemiah 9]] 🔁 every year 📅 2024-09-28 #todo #biblereading
+- [ ] [[Nehemiah 10]] 🔁 every year 📅 2024-09-28 #todo #biblereading
+- [ ] [[Nehemiah 11]] 🔁 every year 📅 2024-09-29 #todo #biblereading
+- [ ] [[Nehemiah 11]] 🔁 every year 📅 2024-09-29 #todo #biblereading
+- [ ] [[Nehemiah 12]] 🔁 every year 📅 2024-09-29 #todo #biblereading
+- [ ] [[Nehemiah 13]] 🔁 every year 📅 2024-09-29 #todo #biblereading
+- [ ] [[Psalms 126]] 🔁 every year 📅 2024-09-29 #todo #biblereading
+- [ ] [[Malachi 1]] 🔁 every year 📅 2024-09-30 #todo #biblereading
+- [ ] [[Malachi 2]] 🔁 every year 📅 2024-09-30 #todo #biblereading
+- [ ] [[Malachi 3]] 🔁 every year 📅 2024-09-30 #todo #biblereading
+- [ ] [[Malachi 4]] 🔁 every year 📅 2024-09-30 #todo #biblereading
+- [ ] [[Luke 1]] 🔁 every year 📅 2024-10-01 #todo #biblereading
+- [ ] [[John 1|John 1:1-14]] 🔁 every year 📅 2024-10-01 #todo #biblereading
+- [ ] [[Matthew 1]] 🔁 every year 📅 2024-10-02 #todo #biblereading
+- [ ] [[Luke 2|Luke 2:1-38]] 🔁 every year 📅 2024-10-02 #todo #biblereading
+- [ ] [[Matthew 2]] 🔁 every year 📅 2024-10-03 #todo #biblereading
+- [ ] [[Luke 2|Luke2:39-52]] 🔁 every year 📅 2024-10-03 #todo #biblereading
+- [ ] [[Matthew 3]] 🔁 every year 📅 2024-10-04 #todo #biblereading
+- [ ] [[Mark 1]] 🔁 every year 📅 2024-10-04 #todo #biblereading
+- [ ] [[Luke 3]] 🔁 every year 📅 2024-10-04 #todo #biblereading
+- [ ] [[Matthew 4]] 🔁 every year 📅 2024-10-05 #todo #biblereading
+- [ ] [[Luke 4]] 🔁 every year 📅 2024-10-05 #todo #biblereading
+- [ ] [[Luke 5]] 🔁 every year 📅 2024-10-05 #todo #biblereading
+- [ ] [[John 2]] 🔁 every year 📅 2024-10-06 #todo #biblereading
+- [ ] [[John 3]] 🔁 every year 📅 2024-10-06 #todo #biblereading
+- [ ] [[John 4]] 🔁 every year 📅 2024-10-06 #todo #biblereading
+- [ ] [[Mark 2]] 🔁 every year 📅 2024-10-07 #todo #biblereading
+- [ ] [[John 5]] 🔁 every year 📅 2024-10-08 #todo #biblereading
+- [ ] [[Matthew 12|Matthew 12:1-21]] 🔁 every year 📅 2024-10-09 #todo #biblereading
+- [ ] [[Mark 3]] 🔁 every year 📅 2024-10-09 #todo #biblereading
+- [ ] [[Luke 6]] 🔁 every year 📅 2024-10-09 #todo #biblereading
+- [ ] [[Matthew 5]] 🔁 every year 📅 2024-10-10 #todo #biblereading
+- [ ] [[Matthew 6]] 🔁 every year 📅 2024-10-10 #todo #biblereading
+- [ ] [[Matthew 7]] 🔁 every year 📅 2024-10-10 #todo #biblereading
+- [ ] [[Matthew 8|Matthew 8:1-13]] 🔁 every year 📅 2024-10-11 #todo #biblereading
+- [ ] [[Luke 7]] 🔁 every year 📅 2024-10-11 #todo #biblereading
+- [ ] [[Matthew 11]] 🔁 every year 📅 2024-10-12 #todo #biblereading
+- [ ] [[Matthew 12|Matthew 12:22-50]] 🔁 every year 📅 2024-10-13 #todo #biblereading
+- [ ] [[Luke 11]] 🔁 every year 📅 2024-10-13 #todo #biblereading
+- [ ] [[Matthew 13]] 🔁 every year 📅 2024-10-14 #todo #biblereading
+- [ ] [[Luke 8]] 🔁 every year 📅 2024-10-14 #todo #biblereading
+- [ ] [[Matthew 8|Mathew 8:14-34]] 🔁 every year 📅 2024-10-15 #todo #biblereading
+- [ ] [[Mark 4]] 🔁 every year 📅 2024-10-15 #todo #biblereading
+- [ ] [[Mark 5]] 🔁 every year 📅 2024-10-15 #todo #biblereading
+- [ ] [[Matthew 9]] 🔁 every year 📅 2024-10-16 #todo #biblereading
+- [ ] [[Matthew 10]] 🔁 every year 📅 2024-10-16 #todo #biblereading
+- [ ] [[Matthew 14]] 🔁 every year 📅 2024-10-17 #todo #biblereading
+- [ ] [[Mark 6]] 🔁 every year 📅 2024-10-17 #todo #biblereading
+- [ ] [[Luke 9|Luke 9:1-17]] 🔁 every year 📅 2024-10-17 #todo #biblereading
+- [ ] [[John 6]] 🔁 every year 📅 2024-10-18 #todo #biblereading
+- [ ] [[Matthew 15]] 🔁 every year 📅 2024-10-19 #todo #biblereading
+- [ ] [[Mark 7]] 🔁 every year 📅 2024-10-19 #todo #biblereading
+- [ ] [[Matthew 16]] 🔁 every year 📅 2024-10-20 #todo #biblereading
+- [ ] [[Mark 8]] 🔁 every year 📅 2024-10-20 #todo #biblereading
+- [ ] [[Luke 9|Luke 9:18-27]] 🔁 every year 📅 2024-10-20 #todo #biblereading
+- [ ] [[Matthew 17]] 🔁 every year 📅 2024-10-21 #todo #biblereading
+- [ ] [[Mark 9]] 🔁 every year 📅 2024-10-21 #todo #biblereading
+- [ ] [[Luke 9|Luke 9:28-62]] 🔁 every year 📅 2024-10-21 #todo #biblereading
+- [ ] [[Matthew 18]] 🔁 every year 📅 2024-10-22 #todo #biblereading
+- [ ] [[John 7]] 🔁 every year 📅 2024-10-23 #todo #biblereading
+- [ ] [[John 8]] 🔁 every year 📅 2024-10-23 #todo #biblereading
+- [ ] [[John 9]] 🔁 every year 📅 2024-10-24 #todo #biblereading
+- [ ] [[John 10|John 10:1-21]] 🔁 every year 📅 2024-10-24 #todo #biblereading
+- [ ] [[Luke 10]] 🔁 every year 📅 2024-10-25 #todo #biblereading
+- [ ] [[Luke 11]] 🔁 every year 📅 2024-10-25 #todo #biblereading
+- [ ] [[John 10|John 10:22-42]] 🔁 every year 📅 2024-10-25 #todo #biblereading
+- [ ] [[Luke 12]] 🔁 every year 📅 2024-10-26 #todo #biblereading
+- [ ] [[Luke 13]] 🔁 every year 📅 2024-10-26 #todo #biblereading
+- [ ] [[Luke 14]] 🔁 every year 📅 2024-10-27 #todo #biblereading
+- [ ] [[Luke 15]] 🔁 every year 📅 2024-10-27 #todo #biblereading
+- [ ] [[Luke 16]] 🔁 every year 📅 2024-10-28 #todo #biblereading
+- [ ] [[Luke 17|Luke 17:1-10]] 🔁 every year 📅 2024-10-28 #todo #biblereading
+- [ ] [[John 11]] 🔁 every year 📅 2024-10-29 #todo #biblereading
+- [ ] [[Luke 17|Luke 17:11-37]] 🔁 every year 📅 2024-10-30 #todo #biblereading
+- [ ] [[Luke 18|Luke 18:1-14]] 🔁 every year 📅 2024-10-30 #todo #biblereading
+- [ ] [[Matthew 19]] 🔁 every year 📅 2024-10-31 #todo #biblereading
+- [ ] [[Mark 10]] 🔁 every year 📅 2024-10-31 #todo #biblereading
+- [ ] [[Matthew 20]] 🔁 every year 📅 2024-11-01 #todo #biblereading
+- [ ] [[Matthew 21]] 🔁 every year 📅 2024-11-01 #todo #biblereading
+- [ ] [[Luke 18|Luke 18:15-43]] 🔁 every year 📅 2024-11-02 #todo #biblereading
+- [ ] [[Luke 19]] 🔁 every year 📅 2024-11-02 #todo #biblereading
+- [ ] [[Mark 11]] 🔁 every year 📅 2024-11-03 #todo #biblereading
+- [ ] [[John 12]] 🔁 every year 📅 2024-11-03 #todo #biblereading
+- [ ] [[Matthew 22]] 🔁 every year 📅 2024-11-04 #todo #biblereading
+- [ ] [[Mark 12]] 🔁 every year 📅 2024-11-04 #todo #biblereading
+- [ ] [[Matthew 23]] 🔁 every year 📅 2024-11-05 #todo #biblereading
+- [ ] [[Luke 20]] 🔁 every year 📅 2024-11-05 #todo #biblereading
+- [ ] [[Luke 21]] 🔁 every year 📅 2024-11-05 #todo #biblereading
+- [ ] [[Mark 13]] 🔁 every year 📅 2024-11-06 #todo #biblereading
+- [ ] [[Matthew 24]] 🔁 every year 📅 2024-11-07 #todo #biblereading
+- [ ] [[Matthew 25]] 🔁 every year 📅 2024-11-08 #todo #biblereading
+- [ ] [[Matthew 26]] 🔁 every year 📅 2024-11-09 #todo #biblereading
+- [ ] [[Mark 14]] 🔁 every year 📅 2024-11-09 #todo #biblereading
+- [ ] [[Luke 22]] 🔁 every year 📅 2024-11-10 #todo #biblereading
+- [ ] [[John 13]] 🔁 every year 📅 2024-11-10 #todo #biblereading
+- [ ] [[John 14]] 🔁 every year 📅 2024-11-11 #todo #biblereading
+- [ ] [[John 15]] 🔁 every year 📅 2024-11-11 #todo #biblereading
+- [ ] [[John 16]] 🔁 every year 📅 2024-11-11 #todo #biblereading
+- [ ] [[John 17]] 🔁 every year 📅 2024-11-11 #todo #biblereading
+- [ ] [[Matthew 27]] 🔁 every year 📅 2024-11-12 #todo #biblereading
+- [ ] [[Mark 15]] 🔁 every year 📅 2024-11-12 #todo #biblereading
+- [ ] [[Luke 23]] 🔁 every year 📅 2024-11-13 #todo #biblereading
+- [ ] [[John 18]] 🔁 every year 📅 2024-11-13 #todo #biblereading
+- [ ] [[John 19]] 🔁 every year 📅 2024-11-13 #todo #biblereading
+- [ ] [[Matthew 28]] 🔁 every year 📅 2024-11-14 #todo #biblereading
+- [ ] [[Mark 16]] 🔁 every year 📅 2024-11-14 #todo #biblereading
+- [ ] [[Luke 24]] 🔁 every year 📅 2024-11-15 #todo #biblereading
+- [ ] [[John 20]] 🔁 every year 📅 2024-11-15 #todo #biblereading
+- [ ] [[John 21]] 🔁 every year 📅 2024-11-15 #todo #biblereading
+- [ ] [[Acts 1]] 🔁 every year 📅 2024-11-16 #todo #biblereading
+- [ ] [[Acts 2]] 🔁 every year 📅 2024-11-16 #todo #biblereading
+- [ ] [[Acts 3]] 🔁 every year 📅 2024-11-16 #todo #biblereading
+- [ ] [[Acts 4]] 🔁 every year 📅 2024-11-17 #todo #biblereading
+- [ ] [[Acts 5]] 🔁 every year 📅 2024-11-17 #todo #biblereading
+- [ ] [[Acts 6]] 🔁 every year 📅 2024-11-17 #todo #biblereading
+- [ ] [[Acts 7]] 🔁 every year 📅 2024-11-18 #todo #biblereading
+- [ ] [[Acts 8]] 🔁 every year 📅 2024-11-18 #todo #biblereading
+- [ ] [[Acts 9]] 🔁 every year 📅 2024-11-19 #todo #biblereading
+- [ ] [[Acts 10]] 🔁 every year 📅 2024-11-19 #todo #biblereading
+- [ ] [[Acts 11]] 🔁 every year 📅 2024-11-20 #todo #biblereading
+- [ ] [[Acts 12]] 🔁 every year 📅 2024-11-20 #todo #biblereading
+- [ ] [[Acts 13]] 🔁 every year 📅 2024-11-21 #todo #biblereading
+- [ ] [[Acts 14]] 🔁 every year 📅 2024-11-21 #todo #biblereading
+- [ ] [[James 1]] 🔁 every year 📅 2024-11-22 #todo #biblereading
+- [ ] [[James 2]] 🔁 every year 📅 2024-11-22 #todo #biblereading
+- [ ] [[James 3]] 🔁 every year 📅 2024-11-22 #todo #biblereading
+- [ ] [[James 4]] 🔁 every year 📅 2024-11-22 #todo #biblereading
+- [ ] [[James 5]] 🔁 every year 📅 2024-11-22 #todo #biblereading
+- [ ] [[Acts 15]] 🔁 every year 📅 2024-11-23 #todo #biblereading
+- [ ] [[Acts 16]] 🔁 every year 📅 2024-11-23 #todo #biblereading
+- [ ] [[Galatians 1]] 🔁 every year 📅 2024-11-24 #todo #biblereading
+- [ ] [[Galatians 2]] 🔁 every year 📅 2024-11-24 #todo #biblereading 
+- [ ] [[Galatians 3]] 🔁 every year 📅 2024-11-24 #todo #biblereading 
+- [ ] [[Galatians 4]] 🔁 every year 📅 2024-11-25 #todo #biblereading 
+- [ ] [[Galatians 5]] 🔁 every year 📅 2024-11-25 #todo #biblereading 
+- [ ] [[Galatians 6]] 🔁 every year 📅 2024-11-25 #todo #biblereading 
+- [ ] [[Acts 17]] 🔁 every year 📅 2024-11-26 #todo #biblereading
+- [ ] [[Acts 18|Acts 18:1-18]] 🔁 every year 📅 2024-11-26 #todo #biblereading
+- [ ] [[1 Thessalonians 1]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[1 Thessalonians 2]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[1 Thessalonians 3]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[1 Thessalonians 4]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[1 Thessalonians 5]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[2 Thessalonians 1]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[2 Thessalonians 2]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[2 Thessalonians 3]] 🔁 every year 📅 2024-11-27 #todo #biblereading
+- [ ] [[Acts 18|Acts 18:19-28]] 🔁 every year 📅 2024-11-28 #todo #biblereading
+- [ ] [[Acts 19]] 🔁 every year 📅 2024-11-28 #todo #biblereading
+- [ ] [[1 Corinthians 1]] 🔁 every year 📅 2024-11-29 #todo #biblereading
+- [ ] [[1 Corinthians 2]] 🔁 every year 📅 2024-11-29 #todo #biblereading
+- [ ] [[1 Corinthians 3]] 🔁 every year 📅 2024-11-29 #todo #biblereading
+- [ ] [[1 Corinthians 4]] 🔁 every year 📅 2024-11-29 #todo #biblereading
+- [ ] [[1 Corinthians 5]] 🔁 every year 📅 2024-11-30 #todo #biblereading
+- [ ] [[1 Corinthians 6]] 🔁 every year 📅 2024-11-30 #todo #biblereading
+- [ ] [[1 Corinthians 7]] 🔁 every year 📅 2024-11-30 #todo #biblereading
+- [ ] [[1 Corinthians 8]] 🔁 every year 📅 2024-11-30 #todo #biblereading
+- [ ] [[1 Corinthians 9]] 🔁 every year 📅 2024-12-01 #todo #biblereading
+- [ ] [[1 Corinthians 10]] 🔁 every year 📅 2024-12-01 #todo #biblereading
+- [ ] [[1 Corinthians 11]] 🔁 every year 📅 2024-12-01 #todo #biblereading
+- [ ] [[1 Corinthians 12]] 🔁 every year 📅 2024-12-02 #todo #biblereading
+- [ ] [[1 Corinthians 13]] 🔁 every year 📅 2024-12-02 #todo #biblereading
+- [ ] [[1 Corinthians 14]] 🔁 every year 📅 2024-12-02 #todo #biblereading
+- [ ] [[1 Corinthians 15]] 🔁 every year 📅 2024-12-03 #todo #biblereading
+- [ ] [[1 Corinthians 16]] 🔁 every year 📅 2024-12-03 #todo #biblereading
+- [ ] [[2 Corinthians 1]] 🔁 every year 📅 2024-12-04 #todo #biblereading
+- [ ] [[2 Corinthians 2]] 🔁 every year 📅 2024-12-04 #todo #biblereading
+- [ ] [[2 Corinthians 3]] 🔁 every year 📅 2024-12-04 #todo #biblereading
+- [ ] [[2 Corinthians 4]] 🔁 every year 📅 2024-12-04 #todo #biblereading
+- [ ] [[2 Corinthians 5]] 🔁 every year 📅 2024-12-05 #todo #biblereading
+- [ ] [[2 Corinthians 6]] 🔁 every year 📅 2024-12-05 #todo #biblereading 
+- [ ] [[2 Corinthians 7]] 🔁 every year 📅 2024-12-05 #todo #biblereading
+- [ ] [[2 Corinthians 8]] 🔁 every year 📅 2024-12-05 #todo #biblereading
+- [ ] [[2 Corinthians 9]] 🔁 every year 📅 2024-12-05 #todo #biblereading
+- [ ] [[2 Corinthians 10]] 🔁 every year 📅 2024-12-06 #todo #biblereading
+- [ ] [[2 Corinthians 11]] 🔁 every year 📅 2024-12-06 #todo #biblereading
+- [ ] [[2 Corinthians 12]] 🔁 every year 📅 2024-12-06 #todo #biblereading
+- [ ] [[2 Corinthians 13]] 🔁 every year 📅 2024-12-06 #todo #biblereading
+- [ ] [[Acts 20|Acts 20:1-3]] 🔁 every year 📅 2024-12-07 #todo #biblereading
+- [ ] [[Romans 1]] 🔁 every year 📅 2024-12-07 #todo #biblereading
+- [ ] [[Romans 2]] 🔁 every year 📅 2024-12-07 #todo #biblereading
+- [ ] [[Romans 3]] 🔁 every year 📅 2024-12-07 #todo #biblereading
+- [ ] [[Romans 4]] 🔁 every year 📅 2024-12-08 #todo #biblereading
+- [ ] [[Romans 5]] 🔁 every year 📅 2024-12-08 #todo #biblereading
+- [ ] [[Romans 6]] 🔁 every year 📅 2024-12-08 #todo #biblereading
+- [ ] [[Romans 7]] 🔁 every year 📅 2024-12-08 #todo #biblereading
+- [ ] [[Romans 8]] 🔁 every year 📅 2024-12-09 #todo #biblereading
+- [ ] [[Romans 9]] 🔁 every year 📅 2024-12-09 #todo #biblereading
+- [ ] [[Romans 10]] 🔁 every year 📅 2024-12-09 #todo #biblereading
+- [ ] [[Romans 11]] 🔁 every year 📅 2024-12-10 #todo #biblereading
+- [ ] [[Romans 12]] 🔁 every year 📅 2024-12-10 #todo #biblereading
+- [ ] [[Romans 13]] 🔁 every year 📅 2024-12-10 #todo #biblereading 
+- [ ] [[Romans 14]] 🔁 every year 📅 2024-12-11 #todo #biblereading
+- [ ] [[Romans 15]] 🔁 every year 📅 2024-12-11 #todo #biblereading
+- [ ] [[Romans 16]] 🔁 every year 📅 2024-12-11 #todo #biblereading
+- [ ] [[Acts 20|Acts 20:4-38]] 🔁 every year 📅 2024-12-12 #todo #biblereading
+- [ ] [[Acts 21]] 🔁 every year 📅 2024-12-12 #todo #biblereading
+- [ ] [[Acts 22]] 🔁 every year 📅 2024-12-12 #todo #biblereading
+- [ ] [[Acts 23]] 🔁 every year 📅 2024-12-12 #todo #biblereading
+- [ ] [[Acts 24]] 🔁 every year 📅 2024-12-13 #todo #biblereading
+- [ ] [[Acts 25]] 🔁 every year 📅 2024-12-13 #todo #biblereading
+- [ ] [[Acts 26]] 🔁 every year 📅 2024-12-13 #todo #biblereading
+- [ ] [[Acts 27]] 🔁 every year 📅 2024-12-14 #todo #biblereading
+- [ ] [[Acts 28]] 🔁 every year 📅 2024-12-14 #todo #biblereading
+- [ ] [[Colossians 1]] 🔁 every year 📅 2024-12-15 #todo #biblereading
+- [ ] [[Colossians 2]] 🔁 every year 📅 2024-12-15 #todo #biblereading
+- [ ] [[Colossians 3]] 🔁 every year 📅 2024-12-15 #todo #biblereading
+- [ ] [[Colossians 4]] 🔁 every year 📅 2024-12-15 #todo #biblereading
+- [ ] [[Philemon 1]] 🔁 every year 📅 2024-12-15 #todo #biblereading
+- [ ] [[Ephesians 1]] 🔁 every year 📅 2024-12-16 #todo #biblereading
+- [ ] [[Ephesians 2]] 🔁 every year 📅 2024-12-16 #todo #biblereading
+- [ ] [[Ephesians 3]] 🔁 every year 📅 2024-12-16 #todo #biblereading
+- [ ] [[Ephesians 4]] 🔁 every year 📅 2024-12-16 #todo #biblereading
+- [ ] [[Ephesians 5]] 🔁 every year 📅 2024-12-16 #todo #biblereading
+- [ ] [[Ephesians 6]] 🔁 every year 📅 2024-12-16 #todo #biblereading
+- [ ] [[Philippians 1]] 🔁 every year 📅 2024-12-17 #todo #biblereading
+- [ ] [[Philippians 2]] 🔁 every year 📅 2024-12-17 #todo #biblereading
+- [ ] [[Philippians 3]] 🔁 every year 📅 2024-12-17 #todo #biblereading
+- [ ] [[Philippians 4]] 🔁 every year 📅 2024-12-17 #todo #biblereading
+- [ ] [[1 Timothy 1]] 🔁 every year 📅 2024-12-18 #todo #biblereading
+- [ ] [[1 Timothy 2]] 🔁 every year 📅 2024-12-18 #todo #biblereading
+- [ ] [[1 Timothy 3]] 🔁 every year 📅 2024-12-18 #todo #biblereading
+- [ ] [[1 Timothy 4]] 🔁 every year 📅 2024-12-18 #todo #biblereading
+- [ ] [[1 Timothy 5]] 🔁 every year 📅 2024-12-18 #todo #biblereading
+- [ ] [[Titus 1]] 🔁 every year 📅 2024-12-19 #todo #biblereading
+- [ ] [[Titus 2]] 🔁 every year 📅 2024-12-19 #todo #biblereading
+- [ ] [[Titus 3]] 🔁 every year 📅 2024-12-19 #todo #biblereading
+- [ ] [[1 Peter 1]] 🔁 every year 📅 2024-12-20 #todo #biblereading
+- [ ] [[1 Peter 2]] 🔁 every year 📅 2024-12-20 #todo #biblereading
+- [ ] [[1 Peter 3]] 🔁 every year 📅 2024-12-20 #todo #biblereading
+- [ ] [[1 Peter 4]] 🔁 every year 📅 2024-12-20 #todo #biblereading
+- [ ] [[1 Peter 5]] 🔁 every year 📅 2024-12-20 #todo #biblereading
+- [ ] [[Hebrews 1]] 🔁 every year 📅 2024-12-21 #todo #biblereading
+- [ ] [[Hebrews 2]] 🔁 every year 📅 2024-12-21 #todo #biblereading
+- [ ] [[Hebrews 3]] 🔁 every year 📅 2024-12-21 #todo #biblereading
+- [ ] [[Hebrews 4]] 🔁 every year 📅 2024-12-21 #todo #biblereading
+- [ ] [[Hebrews 5]] 🔁 every year 📅 2024-12-21 #todo #biblereading
+- [ ] [[Hebrews 6]] 🔁 every year 📅 2024-12-21 #todo #biblereading
+- [ ] [[Hebrews 7]] 🔁 every year 📅 2024-12-22 #todo #biblereading
+- [ ] [[Hebrews 8]] 🔁 every year 📅 2024-12-22 #todo #biblereading
+- [ ] [[Hebrews 9]] 🔁 every year 📅 2024-12-22 #todo #biblereading
+- [ ] [[Hebrews 10]] 🔁 every year 📅 2024-12-22 #todo #biblereading
+- [ ] [[Hebrews 11]] 🔁 every year 📅 2024-12-23 #todo #biblereading
+- [ ] [[Hebrews 12]] 🔁 every year 📅 2024-12-23 #todo #biblereading
+- [ ] [[Hebrews 13]] 🔁 every year 📅 2024-12-23 #todo #biblereading
+- [ ] [[2 Timothy 1]] 🔁 every year 📅 2024-12-24 #todo #biblereading
+- [ ] [[2 Timothy 2]] 🔁 every year 📅 2024-12-24 #todo #biblereading
+- [ ] [[2 Timothy 3]] 🔁 every year 📅 2024-12-24 #todo #biblereading
+- [ ] [[2 Peter 1]] 🔁 every year 📅 2024-12-25 #todo #biblereading
+- [ ] [[2 Peter 2]] 🔁 every year 📅 2024-12-25 #todo #biblereading
+- [ ] [[2 Peter 3]] 🔁 every year 📅 2024-12-25 #todo #biblereading
+- [ ] [[Jude 1]] 🔁 every year 📅 2024-12-25 #todo #biblereading 
+- [ ] [[1 John 1]] 🔁 every year 📅 2024-12-26 #todo #biblereading
+- [ ] [[1 John 2]] 🔁 every year 📅 2024-12-26 #todo #biblereading
+- [ ] [[1 John 3]] 🔁 every year 📅 2024-12-26 #todo #biblereading
+- [ ] [[1 John 4]] 🔁 every year 📅 2024-12-26 #todo #biblereading
+- [ ] [[1 John 5]] 🔁 every year 📅 2024-12-26 #todo #biblereading
+- [ ] [[2 John 1]] 🔁 every year 📅 2024-12-27 #todo #biblereading
+- [ ] [[3 John 1]] 🔁 every year 📅 2024-12-27 #todo #biblereading
+- [ ] [[Revelation 1]] 🔁 every year 📅 2024-12-28 #todo #biblereading
+- [ ] [[Revelation 2]] 🔁 every year 📅 2024-12-28 #todo #biblereading 
+- [ ] [[Revelation 3]] 🔁 every year 📅 2024-12-28 #todo #biblereading
+- [ ] [[Revelation 4]] 🔁 every year 📅 2024-12-28 #todo #biblereading 
+- [ ] [[Revelation 5]] 🔁 every year 📅 2024-12-28 #todo #biblereading
+- [ ] [[Revelation 6]] 🔁 every year 📅 2024-12-29 #todo #biblereading 
+- [ ] [[Revelation 7]] 🔁 every year 📅 2024-12-29 #todo #biblereading
+- [ ] [[Revelation 8]] 🔁 every year 📅 2024-12-29 #todo #biblereading
+- [ ] [[Revelation 9]] 🔁 every year 📅 2024-12-29 #todo #biblereading
+- [ ] [[Revelation 10]] 🔁 every year 📅 2024-12-29 #todo #biblereading
+- [ ] [[Revelation 11]] 🔁 every year 📅 2024-12-29 #todo #biblereading
+- [ ] [[Revelation 12]] 🔁 every year 📅 2024-12-30 #todo #biblereading
+- [ ] [[Revelation 13]] 🔁 every year 📅 2024-12-30 #todo #biblereading
+- [ ] [[Revelation 14]] 🔁 every year 📅 2024-12-30 #todo #biblereading
+- [ ] [[Revelation 15]] 🔁 every year 📅 2024-12-30 #todo #biblereading
+- [ ] [[Revelation 16]] 🔁 every year 📅 2024-12-30 #todo #biblereading
+- [ ] [[Revelation 17]] 🔁 every year 📅 2024-12-30 #todo #biblereading
+- [ ] [[Revelation 18]] 🔁 every year 📅 2024-12-30 #todo #biblereading
+- [ ] [[Revelation 19]] 🔁 every year 📅 2024-12-31 #todo #biblereading
+- [ ] [[Revelation 20]] 🔁 every year 📅 2024-12-31 #todo #biblereading
+- [ ] [[Revelation 21]] 🔁 every year 📅 2024-12-31 #todo #biblereading
+- [ ] [[Revelation 22]] 🔁 every year 📅 2024-12-31 #todo #biblereading

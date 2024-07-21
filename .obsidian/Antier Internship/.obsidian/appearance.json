@@ -1,0 +1,11 @@
+{
+  "accentColor": "#a3be8c",
+  "cssTheme": "Obsidian Nord",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "coloredsidebar"
+  ],
+  "interfaceFontFamily": "FiraCode Nerd Font",
+  "textFontFamily": "FiraCode Nerd Font",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono"
+}

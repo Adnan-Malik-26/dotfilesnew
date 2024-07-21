@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "5f65117ffe271941",
+    "type": "split",
+    "children": [
+      {
+        "id": "92fb85d7b2ca3d82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27822d922ee075a4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "637c52483e596e16",
+    "type": "split",
+    "children": [
+      {
+        "id": "4da661364d2eb544",
+        "type": "tabs",
+        "dimension": 66.00790513833992,
+        "children": [
+          {
+            "id": "0c9ed0b03ea875b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "658ef43918a2d457",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07225e1e431d4918",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "abab98665cfa259d",
+        "type": "tabs",
+        "dimension": 33.99209486166008,
+        "children": [
+          {
+            "id": "befe11a087a3a71e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "right": {
+    "id": "988de0a5e0eba3bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "77740af8b5518f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fdcea4bd947eeee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "deedeae45a58391b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbb780eb5875bb0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e169ee795157891",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bd11699269914b4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "31becd130bd1fa7f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 301.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "27822d922ee075a4",
+  "lastOpenFiles": [
+    "John Paul Jones.md",
+    "Home.md",
+    "Core Features/Add an Image to a Note by Dragging It.md",
+    "Files/Atomic Habits.pdf",
+    "Start Here.md",
+    "Plugins & Code/Plugins & Code.md",
+    "Sandbox.md",
+    "Templates/Daily Notes Template v2.md",
+    "Templates/Daily Notes Template v1 (Daily Questions).md",
+    "Templates/Daily Notes Template.md",
+    "Templates/Daily Notes Template v1 (Placeholder).md",
+    "Resources/Bible Reading Plan/Chronological Bible Reading Plan.md",
+    "Obsidian 101.md",
+    "Reference/Callout Examples.md",
+    "Resources/Templates/Daily Notes Template (Placeholder).md",
+    "Resources/Templates/Daily Notes Template (Daily Questions).md",
+    "Templates/MOC.md",
+    "Resources/Bible Reading Plan/Untitled.md",
+    "Resources/Bible Reading Plan",
+    "Shortcuts/Daily Questions - iOS.md",
+    "Resources/Quotebook Example/Quotebook Example.md",
+    "Resources/Quotebook Example/Person Query.md",
+    "Files/The Bullet Journal Method.pdf",
+    "Resources/Sample Book Notes/The Bullet Journal Method.md",
+    "Resources/Sample Book Notes/Liminal Thinking.md",
+    "Resources/Sample Book Notes/Atomic Habits.md",
+    "Resources/Quotebook Example/Quote List.md",
+    "Resources/Quotebook Example/Untitled.md",
+    "Resources/Quotebook Example",
+    "Quotebook.css",
+    "Files/Liminal Thinking.pdf",
+    "Resources/Sample Book Notes/How to Read a Book.md",
+    "Resources/Sample Book Notes",
+    "Resources",
+    "Shortcuts",
+    "Files/thepkmstack.png",
+    "Reference",
+    "Files/commanpaletteios.png",
+    "Files/thingscallback.png",
+    "Files/callbackurl.png",
+    "Files/callbackurl.jpg",
+    "Files/cmenu.png",
+    "Files/markdown.jpeg",
+    "Files/pincommands.png",
+    "Files/exporttopdf.png",
+    "Files/dragimage.gif"
+  ]
+}

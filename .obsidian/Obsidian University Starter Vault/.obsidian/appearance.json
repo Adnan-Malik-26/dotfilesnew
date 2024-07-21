@@ -1,0 +1,9 @@
+{
+  "accentColor": "#a3be8c",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "Quotebook",
+    "Bible"
+  ],
+  "cssTheme": "Obsidian Nord"
+}

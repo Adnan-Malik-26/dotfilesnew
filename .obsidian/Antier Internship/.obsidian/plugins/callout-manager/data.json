@@ -1,0 +1,57 @@
+{
+  "callouts": {
+    "custom": [
+      "memento-mori",
+      "habits",
+      "light",
+      "reading",
+      "email"
+    ],
+    "settings": {
+      "memento-mori": [
+        {
+          "changes": {
+            "icon": "lucide-skull",
+            "color": "158, 158, 158"
+          }
+        }
+      ],
+      "habits": [
+        {
+          "changes": {
+            "icon": "lucide-atom",
+            "color": "233, 151, 63"
+          }
+        }
+      ],
+      "light": [
+        {
+          "changes": {
+            "icon": "lucide-lightbulb",
+            "color": "224, 222, 113"
+          }
+        }
+      ],
+      "reading": [
+        {
+          "changes": {
+            "icon": "lucide-book-marked",
+            "color": "83, 223, 221"
+          }
+        }
+      ],
+      "email": [
+        {
+          "changes": {
+            "icon": "lucide-mail"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": false,
+    "theme": true,
+    "snippet": true
+  }
+}
